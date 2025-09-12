@@ -878,7 +878,7 @@
 - [mudgen/diamond-2-hardhat](https://github.com/mudgen/diamond-2-hardhat) - Gas-optimized EIP-2535 Diamond reference implementation using Hardhat and Solidity 0.8.*
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [0xfps/erc20-assembly](https://github.com/0xfps/erc20-assembly) - An ERC20 Token, but written in Inline Assembly.
-- [coinspect/learn-evm-attacks](https://github.com/coinspect/learn-evm-attacks) - Learn and contribute by exploring blockchain attacks in detail. Maintained by Coinspect smart contract audit team, renowned for their top-tier smart contract audit services.
+- [coinspect/learn-evm-attacks](https://github.com/coinspect/learn-evm-attacks) - 🚀 Try the Learn EVM Explorer we just launched!!!
 - [ismailbangee/smart-contracts](https://github.com/ismailbangee/smart-contracts) - This repository will help community to think about new use cases and create smart contracts for those use cases.
 - [degatchi/Blockchain-Alpha](https://github.com/degatchi/Blockchain-Alpha) - Alpha from various sectors in the blockchain space.
 - [degatchi/Arbitrage-Example](https://github.com/degatchi/Arbitrage-Example) - 
