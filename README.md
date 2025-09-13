@@ -801,6 +801,7 @@
 
 ## Shell 
 
+- [tiiiecherle/osx_install_config](https://github.com/tiiiecherle/osx_install_config) - macOS Scripting for Configuration, Backup and Restore
 - [pfelk/pfelk](https://github.com/pfelk/pfelk) - pfSense/OPNsense + Elastic Stack
 - [smallstep/docker-tls](https://github.com/smallstep/docker-tls) - TLS Certificate Management solutions for common Docker services. Including ACME enrollment, renewal, and reloading. Works with smallstep/certificates.
 - [drduh/config](https://github.com/drduh/config) - Configuration files and scripts used in guides and for system setup.
