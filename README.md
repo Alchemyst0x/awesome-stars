@@ -55,7 +55,7 @@
 
 - [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python
 - [dpdani/cereggii](https://github.com/dpdani/cereggii) - Thread synchronization utilities for Python
-- [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) - Up to 10x faster strings for C, C++, Python, Rust, Swift & Go, leveraging NEON, AVX2, AVX-512, SVE, & SWAR to accelerate search, hashing, sort, edit distances, and memory ops 🦖
+- [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) - Up to 100x faster strings for C, C++, CUDA, Python, Rust, Swift, JS, & Go, leveraging NEON, AVX2, AVX-512, SVE, GPGPU, & SWAR to accelerate search, hashing, sorting, edit distances, sketches, and memo
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [mucahitkurtlar/luxor](https://github.com/mucahitkurtlar/luxor) - LUKS2 brute-force cracker
@@ -396,7 +396,7 @@
 
 - [ThreatNGSecurity/Privacy-Policies](https://github.com/ThreatNGSecurity/Privacy-Policies) - The privacy policy is often disregarded and not read as it contains heavy legal language and is overly complex. Still, it is a great starting point for understanding what data an organization gathers,
 - [ravendevteam/betanet](https://github.com/ravendevteam/betanet) - The official specification for Betanet.
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, T
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer 
 - [Quantum-Hacker/CVE-2024-27564](https://github.com/Quantum-Hacker/CVE-2024-27564) - 
 - [erikdkennedy/figtree](https://github.com/erikdkennedy/figtree) - A friendly, simple geometric sans serif font
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
