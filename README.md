@@ -248,6 +248,7 @@
 
 ## JavaScript 
 
+- [ota-meshi/extract-vscode-schemas](https://github.com/ota-meshi/extract-vscode-schemas) - 
 - [francisconeves97/jxscout](https://github.com/francisconeves97/jxscout) - jxscout superpowers JavaScript analysis for security researchers
 - [DoingFedTime/PrivacyPlease](https://github.com/DoingFedTime/PrivacyPlease) - Swaps non-privacy respecting sites with open source privacy frontends.
 - [rapid7/jsobfu](https://github.com/rapid7/jsobfu) - Obfuscate JavaScript (beyond repair) with Ruby
