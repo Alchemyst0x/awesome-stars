@@ -596,7 +596,7 @@
 - [neomutt/lsp-tree-sitter](https://github.com/neomutt/lsp-tree-sitter) - A library to create language servers.
 - [JoranHonig/tree-sitter-solidity](https://github.com/JoranHonig/tree-sitter-solidity) - Solidity grammar for tree sitter
 - [yangxy/PASD](https://github.com/yangxy/PASD) - [ECCV2024] Pixel-Aware Stable Diffusion for Realistic Image Super-Resolution and Personalized Stylization
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, tables, cases) for security and IT teams.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security and IT teams.
 - [mpkocher/pydantic-cli](https://github.com/mpkocher/pydantic-cli) - Turn Pydantic defined Data Models into CLI Tools
 - [arkonger/python-oklch](https://github.com/arkonger/python-oklch) - A module for python implementing the OKLCH color space as described by Björn Ottosson, along with various tools for manipulating color objects.
 - [natankeddem/autopve](https://github.com/natankeddem/autopve) - Containerized GUI application which hosts answers for Proxmox automated installation.
@@ -924,6 +924,7 @@
 
 ## TypeScript 
 
+- [vscodethemes/web](https://github.com/vscodethemes/web) - Search and preview themes from the VS Code Marketplace.
 - [vernu/textbee](https://github.com/vernu/textbee) - open-source sms-gateway. turn any android phone into an sms gateway
 - [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack) - Deobfuscate obfuscator.io, unminify and unpack bundled javascript
 - [SashaBusinaro/yaml-compose-sorter](https://github.com/SashaBusinaro/yaml-compose-sorter) - A vscode extension that sorts and formats Docker Compose YAML files with consistent key ordering and improved readability.
