@@ -924,6 +924,7 @@
 
 ## TypeScript 
 
+- [skowtcc/api](https://github.com/skowtcc/api) - 📦 The API for https://skowt.cc/ — using CF Workers/R2/DO, Hono, Turso, Drizzle & Better Auth (Discord)
 - [vscodethemes/web](https://github.com/vscodethemes/web) - Search and preview themes from the VS Code Marketplace.
 - [vernu/textbee](https://github.com/vernu/textbee) - open-source sms-gateway. turn any android phone into an sms gateway
 - [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack) - Deobfuscate obfuscator.io, unminify and unpack bundled javascript
