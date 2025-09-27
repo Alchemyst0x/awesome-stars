@@ -232,7 +232,7 @@
 ## ai 
 
 - [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
 - [gridaco/assistant](https://github.com/gridaco/assistant) - 🤖  Bring your Figma design & development pipeline to the next level - with design to code, in-design-content-management, component management, tools for faster design
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Add generative UI components to your AI assistant, copilot, or agent.
 - [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core) - AI agent microservice
@@ -1110,7 +1110,7 @@
 - [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr) - Simplifies IPv4/IPv6 CIDR network prefix management with counting, overlap checking, explanation, and subdivision.
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [janpfeifer/gonb](https://github.com/janpfeifer/gonb) - GoNB, a Go Notebook Kernel for Jupyter
-- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk) - On device AI inference in minutes—now for MLX & GGUF and Qualcomm NPU, with Android and iOS coming soon.
+- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk) - Run the latest LLMs and VLMs across GPU, NPU, and CPU with bindings for Python, Android Java, and iOS Swift, getting up and running quickly with OpenAI gpt-oss, Gemma 3, Qwen3, and more.
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own Bot with your favorite language, for Discord, or Telegram, or even Slack
@@ -1516,7 +1516,7 @@
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [protectai/vulnhuntr](https://github.com/protectai/vulnhuntr) - Zero shot vulnerability discovery using LLMs
-- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk) - On device AI inference in minutes—now for MLX & GGUF and Qualcomm NPU, with Android and iOS coming soon.
+- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk) - Run the latest LLMs and VLMs across GPU, NPU, and CPU with bindings for Python, Android Java, and iOS Swift, getting up and running quickly with OpenAI gpt-oss, Gemma 3, Qwen3, and more.
 - [QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) - An AI-powered file management tool that ensures privacy by organizing local texts, images. Using Llama3.2 3B and Llava v1.6 models with the Nexa SDK, it intuitively scans, restructures, and organizes 
 - [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and context
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
@@ -1800,7 +1800,7 @@
 ## open-source 
 
 - [vernu/textbee](https://github.com/vernu/textbee) - open-source sms-gateway. turn any android phone into an sms gateway
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - Preswald is a WASM packager for Python-based interactive data apps: bundle full complex data workflows, particularly visualizations, into single files, runnable completely in-browser, using Pyodide, D
 - [voideditor/void](https://github.com/voideditor/void) - 
@@ -1866,6 +1866,7 @@
 
 ## others 
 
+- [lonecale/Rules](https://github.com/lonecale/Rules) - Rules for Clash, Egern, Loon, QuantumultX, Shadorocket, Stash, Surfboard, Surge
 - [rclone-ui/rclone-ui](https://github.com/rclone-ui/rclone-ui) - The cross-platform desktop GUI for rclone & S3.
 - [DunwichType/Uniblok](https://github.com/DunwichType/Uniblok) - A square typeface.
 - [vscodethemes/web](https://github.com/vscodethemes/web) - Search and preview themes from the VS Code Marketplace.
@@ -2828,7 +2829,7 @@
 
 ## stable-diffusion 
 
-- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk) - On device AI inference in minutes—now for MLX & GGUF and Qualcomm NPU, with Android and iOS coming soon.
+- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk) - Run the latest LLMs and VLMs across GPU, NPU, and CPU with bindings for Python, Android Java, and iOS Swift, getting up and running quickly with OpenAI gpt-oss, Gemma 3, Qwen3, and more.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) - 🪩 Create Disco Diffusion artworks in one line
 
