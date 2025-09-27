@@ -163,7 +163,7 @@
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [janpfeifer/gonb](https://github.com/janpfeifer/gonb) - GoNB, a Go Notebook Kernel for Jupyter
 - [sourcegraph/src-cli](https://github.com/sourcegraph/src-cli) - Sourcegraph CLI
-- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk) - On device AI inference in minutes—now for MLX & GGUF and Qualcomm NPU, with Android and iOS coming soon.
+- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk) - Run the latest LLMs and VLMs across GPU, NPU, and CPU with bindings for Python, Android Java, and iOS Swift, getting up and running quickly with OpenAI gpt-oss, Gemma 3, Qwen3, and more.
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -812,6 +812,7 @@
 
 ## Shell 
 
+- [lonecale/Rules](https://github.com/lonecale/Rules) - Rules for Clash, Egern, Loon, QuantumultX, Shadorocket, Stash, Surfboard, Surge
 - [tiiiecherle/osx_install_config](https://github.com/tiiiecherle/osx_install_config) - macOS Scripting for Configuration, Backup and Restore
 - [pfelk/pfelk](https://github.com/pfelk/pfelk) - pfSense/OPNsense + Elastic Stack
 - [smallstep/docker-tls](https://github.com/smallstep/docker-tls) - TLS Certificate Management solutions for common Docker services. Including ACME enrollment, renewal, and reloading. Works with smallstep/certificates.
