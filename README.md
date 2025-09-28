@@ -47,6 +47,7 @@
 - [Vue](#vue)
 - [YARA](#yara)
 - [Zig](#zig)
+- [reStructuredText](#restructuredtext)
 
 ## ANTLR 
 
@@ -1137,6 +1138,10 @@
 ## Zig 
 
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
+
+## reStructuredText 
+
+- [python/peps](https://github.com/python/peps) - Python Enhancement Proposals
 
 
 ## License
