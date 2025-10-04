@@ -498,6 +498,8 @@
 
 ## Python 
 
+- [cedws/apple-telemetry](https://github.com/cedws/apple-telemetry) - Domain blocklists, IP blocklists, Little Snitch .lsrules, and cloaking files for blocking Apple telemetry
+- [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
 - [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
 - [karpetrosyan/hishel](https://github.com/karpetrosyan/hishel) - An elegant HTTP Cache implementation for HTTPX and HTTP Core.
 - [ryayoung/chatgpt-schema](https://github.com/ryayoung/chatgpt-schema) - Pydantic models to describe, with maximum strictness, the schema of a ChatGPT data export, for research purposes.
@@ -603,7 +605,7 @@
 - [neomutt/lsp-tree-sitter](https://github.com/neomutt/lsp-tree-sitter) - A library to create language servers.
 - [JoranHonig/tree-sitter-solidity](https://github.com/JoranHonig/tree-sitter-solidity) - Solidity grammar for tree sitter
 - [yangxy/PASD](https://github.com/yangxy/PASD) - [ECCV2024] Pixel-Aware Stable Diffusion for Realistic Image Super-Resolution and Personalized Stylization
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security and production engineering teams.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and production engineering teams.
 - [mpkocher/pydantic-cli](https://github.com/mpkocher/pydantic-cli) - Turn Pydantic defined Data Models into CLI Tools
 - [arkonger/python-oklch](https://github.com/arkonger/python-oklch) - A module for python implementing the OKLCH color space as described by Björn Ottosson, along with various tools for manipulating color objects.
 - [natankeddem/autopve](https://github.com/natankeddem/autopve) - Containerized GUI application which hosts answers for Proxmox automated installation.
@@ -934,6 +936,7 @@
 
 ## TypeScript 
 
+- [pojntfx/connmapper](https://github.com/pojntfx/connmapper) - Visualize your system's internet connections on a globe.
 - [rclone-ui/rclone-ui](https://github.com/rclone-ui/rclone-ui) - The cross-platform desktop GUI for rclone & S3.
 - [skowtcc/api](https://github.com/skowtcc/api) - 📦 The API for https://skowt.cc/ — using CF Workers/R2/DO, Hono, Turso, Drizzle & Better Auth (Discord)
 - [vscodethemes/web](https://github.com/vscodethemes/web) - Search and preview themes from the VS Code Marketplace.
