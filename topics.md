@@ -1863,7 +1863,7 @@
 ## openai 
 
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.
-- [katanemo/archgw](https://github.com/katanemo/archgw) - The smart edge and AI gateway for agents. Arch is a high-performance proxy server that handles the low-level work in building agents: like applying guardrails, routing prompts to the right agent, and 
+- [katanemo/archgw](https://github.com/katanemo/archgw) - The data plane for agents. Arch is a smart edge and LLM proxy server that handles the low-level work in building agents: like applying guardrails, routing prompts to the right agent, and unifying acce
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
@@ -2623,6 +2623,7 @@
 
 ## rust 
 
+- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [daac-tools/find-simdoc](https://github.com/daac-tools/find-simdoc) - Finding all pairs of similar documents time- and memory-efficiently
 - [PrettyGoodCapital/finance-enums](https://github.com/PrettyGoodCapital/finance-enums) - Standard Financial Enumerations
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
@@ -2807,6 +2808,7 @@
 
 ## server 
 
+- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [dotnet/WatsonWebserver](https://github.com/dotnet/WatsonWebserver) - Watson is the fastest, easiest way to build scalable RESTful web servers and services in C#.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 
