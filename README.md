@@ -423,7 +423,7 @@
 - [vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools) - A curated list of various bug bounty tools
 - [toolswatch/blackhat-arsenal-tools](https://github.com/toolswatch/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
-- [nikitavoloboev/privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
+- [nikivdev/privacy-respecting](https://github.com/nikivdev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [xbeat/Machine-Learning](https://github.com/xbeat/Machine-Learning) - Cross Beat (xbe.at) - Your hub for python, machine learning and AI tutorials. Explore Python tutorials, AI insights, and more.
 - [WebBreacher/obsidian-osint-templates](https://github.com/WebBreacher/obsidian-osint-templates) - These templates are suggestions of how the Obsidian notetaking tool can be used during an OSINT investigation. The example data in those files should allow you to make some connections (see what I did
@@ -728,7 +728,6 @@
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [Inspiaaa/Python-File-Library](https://github.com/Inspiaaa/Python-File-Library) - Python File Library is a collection of methods and classes to make working with files easier
 - [quan-digital/Pryno](https://github.com/quan-digital/Pryno) - Autonomous bot + bitmex trading infrastructure + dashboard + telegram bot. 🦏🔥🚀🥇
-- [archcraft-os/archcraft-xmonad](https://github.com/archcraft-os/archcraft-xmonad) - // Configuration : Xmonad
 - [Torxed/archoffline](https://github.com/Torxed/archoffline) - Arch Linux Offline ISO
 
 ## Ruby 
@@ -740,10 +739,11 @@
 
 ## Rust 
 
+- [nymtech/nym-vpn-client](https://github.com/nymtech/nym-vpn-client) - Cross-platform open source VPN client built in Rust, with mixnet anonymity and WireGuard speed. Protects metadata, not just IP addresses. Zero-knowledge payments for unlinkable online activities.
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User or AI-Generated Code
 - [daac-tools/find-simdoc](https://github.com/daac-tools/find-simdoc) - Finding all pairs of similar documents time- and memory-efficiently
-- [katanemo/archgw](https://github.com/katanemo/archgw) - The data plane for agents. Arch is a models-native proxy server that handles the plumbing work in AI - agent routing & hand off, guardrails, end-to-end logs & traces, unified access to LLMs from OpenA
+- [katanemo/archgw](https://github.com/katanemo/archgw) - The data plane for agents. Arch is a models-native proxy server that handles the plumbing work in AI: agent routing & hand off, guardrails, end-to-end logs and traces, unified access to LLMs from Open
 - [reportersunited/json-carver](https://github.com/reportersunited/json-carver) - Digital forensics tool that reads (carves) JSON strings from a dump. Think of it as a more accurate and faster replacement for the strings(1) utility.
 - [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 - [awolverp/cachebox](https://github.com/awolverp/cachebox) - The fastest memoizing and caching Python library written in Rust.
@@ -910,6 +910,7 @@
 - [reedrw/dotfiles](https://github.com/reedrw/dotfiles) - my dotfiles
 - [aurutils/aurutils](https://github.com/aurutils/aurutils) - Helper tools for the AUR.
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
+- [archcraft-os/archcraft-xmonad](https://github.com/archcraft-os/archcraft-xmonad) - // Configuration : Xmonad
 - [daniruiz/Color-Fixer](https://github.com/daniruiz/Color-Fixer) - Color-Fixer is a Bash script that allows the developer to make corrections on the project's color palette. The script can process multiple files simultaneously and works by substituting the values it 
 - [Gictorbit/photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Photoshop CC v19  installer for Gnu/Linux
 - [arcolinux/arcolinuxd-iso](https://github.com/arcolinux/arcolinuxd-iso) - 
@@ -1137,7 +1138,7 @@
 - [ipfs/js-datastore-s3](https://github.com/ipfs/js-datastore-s3) - Datastore implementation with S3 backend
 - [guildxyz/guild.xyz](https://github.com/guildxyz/guild.xyz) - A tool for token-curated communities.
 - [multis/gnosis-safe-subgraph](https://github.com/multis/gnosis-safe-subgraph) - 
-- [nikitavoloboev/ts](https://github.com/nikitavoloboev/ts) - TS tools, libraries and other code
+- [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries and other code
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [ceramicnetwork/js-ceramic](https://github.com/ceramicnetwork/js-ceramic) - Typescript implementation of the Ceramic protocol
 - [sunflower-land/sunflower-land](https://github.com/sunflower-land/sunflower-land) - 
