@@ -29,6 +29,7 @@
 - [MATLAB](#matlab)
 - [MDX](#mdx)
 - [Makefile](#makefile)
+- [Nix](#nix)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -412,6 +413,10 @@
 
 - [teaxyz/white-paper](https://github.com/teaxyz/white-paper) - how will the protocol work?
 - [zyedidia/make-template](https://github.com/zyedidia/make-template) - Makefile template for simple C/C++ programs
+
+## Nix 
+
+- [workflow/dotfiles](https://github.com/workflow/dotfiles) - 💫 NixOS configuration files
 
 ## Others 
 
