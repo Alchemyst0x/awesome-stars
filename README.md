@@ -208,7 +208,7 @@
 - [RTradeLtd/s3x](https://github.com/RTradeLtd/s3x) - s3x is a minio gateway providing an S3 API powered by TemporalX that uses IPFS as the data storage layer. It lets you turn any S3 application into an IPFS application with no change in application des
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [alephao/nft-sale-proxy](https://github.com/alephao/nft-sale-proxy) - A proxy to hide NFT metadata during the sale and prevent people from sniping specific NFTs.
-- [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
+- [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook
 - [kevinburke/ssh_config](https://github.com/kevinburke/ssh_config) - Go parser for ssh_config files
 - [xwjdsh/manssh](https://github.com/xwjdsh/manssh) - Manage your ssh alias configs easily.
 - [HACKERALERT/Picocrypt](https://github.com/HACKERALERT/Picocrypt) - A very small, very simple, yet very secure encryption tool.
@@ -635,7 +635,7 @@
 - [harishsg993010/LLM-Research-Scripts](https://github.com/harishsg993010/LLM-Research-Scripts) - 
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
-- [httpdss/struct](https://github.com/httpdss/struct) - STRUCT simplifies project organization by creating consistent file and folder structures tailored to your specific needs. Enhance productivity and maintain uniformity across all your projects with thi
+- [httpdss/structkit](https://github.com/httpdss/structkit) - StructKit simplifies project organization by creating consistent file and folder structures tailored to your specific needs. Enhance productivity and maintain uniformity across all your projects with 
 - [clecherbauer/docker-alias](https://github.com/clecherbauer/docker-alias) - Loader for containerized-tools
 - [misaghsoltani/LightLog](https://github.com/misaghsoltani/LightLog) - A lightweight, flexible logging library for Python, using a C++ core and with support for distributed computing environments
 - [gefyrahq/gefyra](https://github.com/gefyrahq/gefyra) - Blazingly-fast :rocket:, rock-solid, local application development :arrow_right: with Kubernetes.
@@ -1042,7 +1042,7 @@
 - [0xa3k5/web3icons](https://github.com/0xa3k5/web3icons) - web3 specific icons as React components and .SVG
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
-- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine. It is an Open source alternative to Perplexity AI
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [function03-labs/WalletLabels](https://github.com/function03-labs/WalletLabels) - A web app to search Ethereum wallets by names or labels.
 - [matthewwong525/linked-blog-starter](https://github.com/matthewwong525/linked-blog-starter) - Host your second brain for free with Next.JS and Tailwind v3
@@ -1169,7 +1169,7 @@
 - [ceramicnetwork/js-ceramic](https://github.com/ceramicnetwork/js-ceramic) - Typescript implementation of the Ceramic protocol
 - [sunflower-land/sunflower-land](https://github.com/sunflower-land/sunflower-land) - 
 - [balancer/balancer-subgraph-v2](https://github.com/balancer/balancer-subgraph-v2) - Subgraph (Graph Protocol) data layer for Balancer v2 vault, swaps, txs, users
-- [safe-global/safe-smart-account](https://github.com/safe-global/safe-smart-account) - Safe allows secure management of blockchain assets.
+- [safe-fndn/safe-smart-account](https://github.com/safe-fndn/safe-smart-account) - Safe allows secure management of blockchain assets.
 - [Reya-Labs/voltz-core](https://github.com/Reya-Labs/voltz-core) - Core smart contracts of Voltz v1
 - [wighawag/template-ethereum-contracts](https://github.com/wighawag/template-ethereum-contracts) - Template to develop ethereum smart contracts
 - [0xProject/protocol](https://github.com/0xProject/protocol) - 
