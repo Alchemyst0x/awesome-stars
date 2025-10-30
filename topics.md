@@ -2638,7 +2638,7 @@
 - [avneesh0612/react-nextjs-snippets](https://github.com/avneesh0612/react-nextjs-snippets) - 🔌 A VSCode extension packed with the latest React and Next.js snippets
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-- [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
+- [dip/cmdk](https://github.com/dip/cmdk) - Fast, unstyled command menu React component.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
