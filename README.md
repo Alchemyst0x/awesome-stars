@@ -204,7 +204,6 @@
 - [greenboxal/dns-heaven](https://github.com/greenboxal/dns-heaven) - Fixes stupid macOS DNS stack (/etc/resolv.conf)
 - [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
-- [TrueBlocks/trueblocks-core](https://github.com/TrueBlocks/trueblocks-core) - The main repository for the TrueBlocks system
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [RTradeLtd/s3x](https://github.com/RTradeLtd/s3x) - s3x is a minio gateway providing an S3 API powered by TemporalX that uses IPFS as the data storage layer. It lets you turn any S3 application into an IPFS application with no change in application des
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -963,6 +962,7 @@
 - [starkware-libs/starkex-contracts](https://github.com/starkware-libs/starkex-contracts) - 
 - [jakarmy/solidity-summary](https://github.com/jakarmy/solidity-summary) - A code summary of EatTheBlocks' tutorial on Solidity
 - [itsdevbear/solmate-merkle-drop](https://github.com/itsdevbear/solmate-merkle-drop) - ERC20 + ERC721 contracts that support a merkle tree drop
+- [TrueBlocks/trueblocks-core](https://github.com/TrueBlocks/trueblocks-core) - The main repository for the TrueBlocks system
 - [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts) - Collection of smart contracts deployable via thirdweb
 - [transmissions11/solmate](https://github.com/transmissions11/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
 - [Arachnid/solidity-stringutils](https://github.com/Arachnid/solidity-stringutils) - Basic string utilities for Solidity
