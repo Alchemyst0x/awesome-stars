@@ -227,7 +227,6 @@
 - [Goldziher/kreuzberg](https://github.com/Goldziher/kreuzberg) - Document intelligence framework for Python - Extract text, metadata, and structured data   from PDFs, images, Office documents, and more. Built on Pandoc, PDFium, and Tesseract.
 - [TorstenDittmann/launch.css](https://github.com/TorstenDittmann/launch.css) - A classless CSS framework built for speed. Style your website later—build it now.
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
-- [tracerip/archive.trace.rip](https://github.com/tracerip/archive.trace.rip) - Access and download databreaches for absolutely free!
 - [Myzel394/amiopen.now](https://github.com/Myzel394/amiopen.now) - A terminal-aware website to check if your ports are open or if your ISP is blocking any outgoing ports
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
 - [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
@@ -527,6 +526,7 @@
 
 ## Python 
 
+- [agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen) - Automatic model code generator for SQLAlchemy
 - [ZephrFish/OmniProx](https://github.com/ZephrFish/OmniProx) - IP Rotation from different providers - Like FireProx but for GCP, Azure, Alibaba and CloudFlare
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [CERT-Polska/drakvuf-sandbox](https://github.com/CERT-Polska/drakvuf-sandbox) - DRAKVUF Sandbox - automated hypervisor-level malware analysis system
@@ -770,7 +770,7 @@
 - [awolverp/cachebox](https://github.com/awolverp/cachebox) - The fastest memoizing and caching Python library written in Rust.
 - [paradigmxyz/cryo](https://github.com/paradigmxyz/cryo) - cryo is the easiest way to extract blockchain data to parquet, csv, json, or python dataframes
 - [yulesa/glaciers](https://github.com/yulesa/glaciers) - 
-- [lyric-project/lyric](https://github.com/lyric-project/lyric) - Lyric: A Rust-powered secure runtime for AI-Agent.
+- [lyric-project/lyric-runtime](https://github.com/lyric-project/lyric-runtime) - Lyric: A Rust-powered secure runtime for AI-Agent.
 - [Vasu014/loregrep](https://github.com/Vasu014/loregrep) - Context management server, for coding agents
 - [pydsigner/python-lightningcss](https://github.com/pydsigner/python-lightningcss) - Opinionated Python bindings for lightningcss.
 - [simular-fi/simular](https://github.com/simular-fi/simular) - A Python smart-contract API with a blazingly fast (embedded) Ethereum Virtual Machine (EVM)
