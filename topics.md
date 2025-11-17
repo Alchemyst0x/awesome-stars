@@ -2197,7 +2197,7 @@
 - [degatchi/mev-template-rs](https://github.com/degatchi/mev-template-rs) - Bootstrap your MEV bot strategies with a simple boilerplate to build on top of.
 - [blocknative/rust-web3](https://github.com/blocknative/rust-web3) - Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library.
 - [jplaui/web3knowledge](https://github.com/jplaui/web3knowledge) - A collection of links, research papers, tools, researchers, events, ... every web3 follower should know.
-- [Tib3rius/AutoRecon](https://github.com/Tib3rius/AutoRecon) - AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
+- [AutoRecon/AutoRecon](https://github.com/AutoRecon/AutoRecon) - AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
 - [Defi-Cartel/salmonella](https://github.com/Defi-Cartel/salmonella) - Wrecking sandwich traders for fun and profit
 - [0xnogo/sandwich-scanner](https://github.com/0xnogo/sandwich-scanner) - Library to detect on-chain sandwich attacks
 - [Uniswap/merkle-distributor](https://github.com/Uniswap/merkle-distributor) - 📦 A smart contract that distributes a balance of tokens according to a merkle root
