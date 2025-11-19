@@ -533,7 +533,7 @@
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [CERT-Polska/drakvuf-sandbox](https://github.com/CERT-Polska/drakvuf-sandbox) - DRAKVUF Sandbox - automated hypervisor-level malware analysis system
 - [kevoreilly/CAPEv2](https://github.com/kevoreilly/CAPEv2) - Malware Configuration And Payload Extraction
-- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.
+- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Easily build AI systems with Evals, RAG, Agents, fine-tuning, synthetic data, and more.
 - [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
 - [chonkie-inc/chonkie](https://github.com/chonkie-inc/chonkie) - 🦛 CHONK docs with Chonkie ✨ — The lightweight ingestion library for fast, efficient and robust RAG pipelines
 - [CIRCL/AIL-framework](https://github.com/CIRCL/AIL-framework) - AIL framework - Analysis Information Leak framework. Project moved to https://github.com/ail-project
@@ -690,7 +690,7 @@
 - [teamnsrg/erays](https://github.com/teamnsrg/erays) - Ethereum smart contract reverse engineering
 - [chi-research/symbolic-searcher](https://github.com/chi-research/symbolic-searcher) - 
 - [achillean/shodan-python](https://github.com/achillean/shodan-python) - The official Python library for Shodan
-- [Tib3rius/AutoRecon](https://github.com/Tib3rius/AutoRecon) - AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
+- [AutoRecon/AutoRecon](https://github.com/AutoRecon/AutoRecon) - AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
 - [jklemm/py-dnd](https://github.com/jklemm/py-dnd) - Dungeon and Dragons 4.0 Core Rules implemented in Python
 - [Coffee-fueled-deadlines/PyDnD](https://github.com/Coffee-fueled-deadlines/PyDnD) - PyDnD is a Dungeons and Dragons SRD Library for Python3
 - [tassaron/dnd-character](https://github.com/tassaron/dnd-character) - library for making Dungeons & Dragons 5e characters as serializable data
