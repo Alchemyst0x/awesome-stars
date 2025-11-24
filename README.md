@@ -155,7 +155,7 @@
 - [brianshea2/addr.tools](https://github.com/brianshea2/addr.tools) - possibly useful tools for the Internet
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A powerful, portable, local-first workflow engine for managing complex jobs without pain. Single binary with Web UI. 100% open source. No vendor lock-in. It natively supports running containers and ex
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A dead simple, local-first workflow engine for managing complex jobs without pain. Single binary with Web UI. 100% open source. No vendor lock-in. It natively supports running containers and executing
 - [nathanbrock/littlesnitch-country-blocklists](https://github.com/nathanbrock/littlesnitch-country-blocklists) - A collection of LittleSnitch rule sets to block outbound connections to a given country.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
@@ -777,7 +777,7 @@
 - [Vasu014/loregrep](https://github.com/Vasu014/loregrep) - Context management server, for coding agents
 - [pydsigner/python-lightningcss](https://github.com/pydsigner/python-lightningcss) - Opinionated Python bindings for lightningcss.
 - [simular-fi/simular](https://github.com/simular-fi/simular) - A Python smart-contract API with a blazingly fast (embedded) Ethereum Virtual Machine (EVM)
-- [gorules/zen](https://github.com/gorules/zen) - Open-source Business Rules Engine for your Rust, NodeJS, Python, Go, Kotlin (JVM) and Java applications.
+- [gorules/zen](https://github.com/gorules/zen) - Open-source Business Rules Engine for your Rust, NodeJS, Python, Go, Java, Kotlin (JVM), Kotlin (Android) and Swift (iOS) applications.
 - [radumarias/zeroize-python](https://github.com/radumarias/zeroize-python) - Securely clear secrets from memory. Built on stable Rust primitives which guarantee memory is zeroed using an operation will not be 'optimized away' by the compiler
 - [idkosilov/ZeroQ](https://github.com/idkosilov/ZeroQ) - ZeroQ is a high-performance, shared-memory, multi-producer/multi-consumer (MPMC) queue written in Rust with Python bindings.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
