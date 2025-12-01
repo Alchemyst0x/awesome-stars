@@ -528,6 +528,7 @@
 
 ## Python 
 
+- [vertexproject/synapse](https://github.com/vertexproject/synapse) - Synapse Central Intelligence System
 - [agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen) - Automatic model code generator for SQLAlchemy
 - [ZephrFish/OmniProx](https://github.com/ZephrFish/OmniProx) - IP Rotation from different providers - Like FireProx but for GCP, Azure, Alibaba and CloudFlare
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
