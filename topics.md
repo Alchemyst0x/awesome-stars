@@ -2013,6 +2013,7 @@
 
 ## others 
 
+- [vertexproject/synapse](https://github.com/vertexproject/synapse) - Synapse Central Intelligence System
 - [GossiTheDog/scanning](https://github.com/GossiTheDog/scanning) - 
 - [agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen) - Automatic model code generator for SQLAlchemy
 - [ldpool/wg-go-apple](https://github.com/ldpool/wg-go-apple) - 
