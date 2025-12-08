@@ -148,6 +148,7 @@
 
 ## Go 
 
+- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [airplayx/gormat](https://github.com/airplayx/gormat) - ☄ The golang convenient converter supports Database to Struct, SQL to Struct, and JSON to Struct.
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
@@ -219,6 +220,7 @@
 - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook
 - [kevinburke/ssh_config](https://github.com/kevinburke/ssh_config) - Go parser for ssh_config files
 - [xwjdsh/manssh](https://github.com/xwjdsh/manssh) - Manage your ssh alias configs easily.
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [HACKERALERT/Picocrypt](https://github.com/HACKERALERT/Picocrypt) - A very small, very simple, yet very secure encryption tool.
 - [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
 - [containerd/zfs](https://github.com/containerd/zfs) - ZFS snapshotter plugin for containerd
@@ -755,7 +757,6 @@
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins) - This is a crypto trading bot that scans the Binance Annoucements page for new coins, and places trades on Gateio
 - [balancer/balpy](https://github.com/balancer/balpy) - Tools for interacting with Balancer Protocol V2 in Python.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [safe-global/safe-cli](https://github.com/safe-global/safe-cli) - Command line utility for Safe
@@ -793,7 +794,7 @@
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted ai agent sandboxes
 - [daac-tools/find-simdoc](https://github.com/daac-tools/find-simdoc) - Finding all pairs of similar documents time- and memory-efficiently
-- [katanemo/archgw](https://github.com/katanemo/archgw) - Delivery infrastructure for agents. Arch is a models-native proxy server that handles the plumbing work in AI: agent routing & orchestration, guardrails, zero-code logs and traces, unified access to L
+- [katanemo/archgw](https://github.com/katanemo/archgw) - Delivery infrastructure for agents. Arch is a models-native proxy and data plane for agents that handles plumbing work in AI - agent routing and orchestration, guardrails, zero-code logs and traces, a
 - [reportersunited/json-carver](https://github.com/reportersunited/json-carver) - Digital forensics tool that reads (carves) JSON strings from a dump. Think of it as a more accurate and faster replacement for the strings(1) utility.
 - [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 - [awolverp/cachebox](https://github.com/awolverp/cachebox) - The fastest memoizing and caching Python library written in Rust.
