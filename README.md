@@ -74,7 +74,7 @@
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [degatchi/create2crunch](https://github.com/degatchi/create2crunch) - A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.
 - [solusipse/fiche](https://github.com/solusipse/fiche) - Command line pastebin for sharing terminal output.
-- [10gic/vanitygen-plusplus](https://github.com/10gic/vanitygen-plusplus) - A vanity address generator for BTC, ETH, LTC, TRX and 100+ more crypto currencies.
+- [10gic/vanitygen-plusplus](https://github.com/10gic/vanitygen-plusplus) - A vanity address generator supporting over 100 cryptocurrencies including BTC, ETH, LTC, TRX, and more.
 - [eth-brownie/brownie](https://github.com/eth-brownie/brownie) - A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
 - [moneroexamples/openmonero](https://github.com/moneroexamples/openmonero) - Fully open sourced implementation of MyMonero backend
 
@@ -220,7 +220,6 @@
 - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook
 - [kevinburke/ssh_config](https://github.com/kevinburke/ssh_config) - Go parser for ssh_config files
 - [xwjdsh/manssh](https://github.com/xwjdsh/manssh) - Manage your ssh alias configs easily.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [HACKERALERT/Picocrypt](https://github.com/HACKERALERT/Picocrypt) - A very small, very simple, yet very secure encryption tool.
 - [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
 - [containerd/zfs](https://github.com/containerd/zfs) - ZFS snapshotter plugin for containerd
@@ -277,6 +276,7 @@
 
 ## JavaScript 
 
+- [leaky-forms/leaky-forms-crawler](https://github.com/leaky-forms/leaky-forms-crawler) - Puppeteer based crawler to measure email and password exfiltration
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON.
 - [Ch3nYe/JsDeObsBench](https://github.com/Ch3nYe/JsDeObsBench) - JsDeObsBench
@@ -441,13 +441,14 @@
 
 ## Others 
 
+- [citp/privacy-policy-historical](https://github.com/citp/privacy-policy-historical) - Historical website privacy policies spanning over two decades.
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [opsdisk/the_cyber_plumbers_handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) - Free copy of The Cyber Plumber's Handbook - The definitive guide to Secure Shell (SSH) tunneling, port redirection, and bending traffic like a boss.
 - [salam-ammari/Labeled-Transactions-based-Dataset-of-Ethereum-Network](https://github.com/salam-ammari/Labeled-Transactions-based-Dataset-of-Ethereum-Network) - Datasets used in the paper "Labeled Transactions-based Dataset of Ethereum Network"
 - [randorisec/MobileHackingCheatSheet](https://github.com/randorisec/MobileHackingCheatSheet) - Basics on commands/tools/info on how to assess the security of mobile applications
 - [ThreatNGSecurity/Privacy-Policies](https://github.com/ThreatNGSecurity/Privacy-Policies) - The privacy policy is often disregarded and not read as it contains heavy legal language and is overly complex. Still, it is a great starting point for understanding what data an organization gathers,
 - [ravendevteam/alternet](https://github.com/ravendevteam/alternet) - A completely decentralized alternative to the current-day web.
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [chsxthwik/CVE-2024-27564](https://github.com/chsxthwik/CVE-2024-27564) - 
 - [erikdkennedy/figtree](https://github.com/erikdkennedy/figtree) - A friendly, simple geometric sans serif font
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
@@ -545,6 +546,10 @@
 
 ## Python 
 
+- [whiteh4cker-tr/grammar-llm](https://github.com/whiteh4cker-tr/grammar-llm) - AI-powered grammar checker using fine-tuned language models to fix grammatical errors in text.
+- [rakshithShetty/A4NT-author-masking](https://github.com/rakshithShetty/A4NT-author-masking) - Repository for author masking
+- [jxmorris12/language_tool_python](https://github.com/jxmorris12/language_tool_python) - a free python grammar checker 📝✅
+- [olivierkes/manuskript](https://github.com/olivierkes/manuskript) - A open-source tool for writers
 - [GrammAcc/grammlog](https://github.com/GrammAcc/grammlog) - GrammAcc's Structured Logging for Python
 - [Aeternalis-Ingenium/FastAPI-Backend-Template](https://github.com/Aeternalis-Ingenium/FastAPI-Backend-Template) - A backend project template with FastAPI, PostgreSQL with asynchronous SQLAlchemy 2.0, Alembic for asynchronous database migration, and Docker.
 - [domvwt/esparto](https://github.com/domvwt/esparto) - Data driven report builder for the Python data ecosystem.
@@ -757,6 +762,7 @@
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins) - This is a crypto trading bot that scans the Binance Annoucements page for new coins, and places trades on Gateio
 - [balancer/balpy](https://github.com/balancer/balpy) - Tools for interacting with Balancer Protocol V2 in Python.
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [safe-global/safe-cli](https://github.com/safe-global/safe-cli) - Command line utility for Safe
@@ -1013,6 +1019,10 @@
 
 ## TypeScript 
 
+- [deepnote/deepnote](https://github.com/deepnote/deepnote) - Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote c
+- [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, wi
+- [EveripediaNetwork/ep-api](https://github.com/EveripediaNetwork/ep-api) - 🚀 IQ.wiki API
+- [aureliushq/aurelius](https://github.com/aureliushq/aurelius) - Aurelius is a privacy-focused, local-first writing application designed to nurture consistent writing habits. Eliminate distractions when writing, track your daily writing goal, and more.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
