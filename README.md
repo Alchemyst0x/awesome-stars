@@ -59,6 +59,7 @@
 
 ## C 
 
+- [open5gs/open5gs](https://github.com/open5gs/open5gs) - Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-17)
 - [apple-oss-distributions/Security](https://github.com/apple-oss-distributions/Security) - 
 - [hydradatabase/columnar](https://github.com/hydradatabase/columnar) - Postgres-native columnar storage extension
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
@@ -224,7 +225,6 @@
 - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook
 - [kevinburke/ssh_config](https://github.com/kevinburke/ssh_config) - Go parser for ssh_config files
 - [xwjdsh/manssh](https://github.com/xwjdsh/manssh) - Manage your ssh alias configs easily.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [HACKERALERT/Picocrypt](https://github.com/HACKERALERT/Picocrypt) - A very small, very simple, yet very secure encryption tool.
 - [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
 - [containerd/zfs](https://github.com/containerd/zfs) - ZFS snapshotter plugin for containerd
@@ -282,6 +282,7 @@
 
 ## JavaScript 
 
+- [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
 - [leaky-forms/leaky-forms-crawler](https://github.com/leaky-forms/leaky-forms-crawler) - Puppeteer based crawler to measure email and password exfiltration
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON.
@@ -776,6 +777,7 @@
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins) - This is a crypto trading bot that scans the Binance Annoucements page for new coins, and places trades on Gateio
 - [balancer/balpy](https://github.com/balancer/balpy) - Tools for interacting with Balancer Protocol V2 in Python.
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [safe-global/safe-cli](https://github.com/safe-global/safe-cli) - Command line utility for Safe
@@ -805,6 +807,7 @@
 
 ## Rust 
 
+- [cdump/evmole](https://github.com/cdump/evmole) - Extracts function selectors, arguments, state mutability and storage layout from EVM bytecode, even for unverified contracts
 - [shindan-io/scnr](https://github.com/shindan-io/scnr) - deep file scanner tool
 - [harehare/mq](https://github.com/harehare/mq) - jq-like command-line tool for markdown processing
 - [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, DuckDB, Microsoft SQL Server]
@@ -912,6 +915,7 @@
 
 ## Shell 
 
+- [herlesupreeth/docker_open5gs](https://github.com/herlesupreeth/docker_open5gs) - Docker files to run open5gs + IMS + eNB + gNB + NR-UE in a docker
 - [unixwzrd/venvutil](https://github.com/unixwzrd/venvutil) - Python virtual environment management functions and script to build and manage performance, compatibility, and regression test venv builds mostly for AI
 - [odilonscoelho/dots](https://github.com/odilonscoelho/dots) - Meus scripts
 - [lonecale/Rules](https://github.com/lonecale/Rules) - Rules for Clash, Egern, Loon, QuantumultX, Shadorocket, Stash, Surfboard, Surge
