@@ -775,6 +775,7 @@
 
 ## cryptography 
 
+- [cloudflare/azul](https://github.com/cloudflare/azul) - An implementation of a static-ct-api certificate transparency log for deployment on Cloudflare Workers
 - [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
 - [arpitingle/Library-of-Ethereum](https://github.com/arpitingle/Library-of-Ethereum) - Curated Collection of Ethereum Ecosystem Resources
@@ -3553,6 +3554,7 @@
 
 ## web 
 
+- [cloudflare/azul](https://github.com/cloudflare/azul) - An implementation of a static-ct-api certificate transparency log for deployment on Cloudflare Workers
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [lowlighter/matcha](https://github.com/lowlighter/matcha) - 🍵 Drop-in semantic styling library in pure CSS. Highly customizable and perfect for simple websites and prototyping web apps!
 - [karpetrosyan/hishel](https://github.com/karpetrosyan/hishel) - Elegant HTTP Caching for Python
