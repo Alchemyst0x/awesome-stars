@@ -30,6 +30,7 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Nix](#nix)
+- [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
 - [PLpgSQL](#plpgsql)
@@ -39,7 +40,6 @@
 - [PowerShell](#powershell)
 - [Prolog](#prolog)
 - [Python](#python)
-- [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -225,7 +225,6 @@
 - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook
 - [kevinburke/ssh_config](https://github.com/kevinburke/ssh_config) - Go parser for ssh_config files
 - [xwjdsh/manssh](https://github.com/xwjdsh/manssh) - Manage your ssh alias configs easily.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [HACKERALERT/Picocrypt](https://github.com/HACKERALERT/Picocrypt) - A very small, very simple, yet very secure encryption tool.
 - [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
 - [containerd/zfs](https://github.com/containerd/zfs) - ZFS snapshotter plugin for containerd
@@ -447,8 +446,13 @@
 - [frectonz/pglite-fusion](https://github.com/frectonz/pglite-fusion) - Embed an SQLite database in your PostgreSQL table. AKA multitenancy has been solved.
 - [workflow/dotfiles](https://github.com/workflow/dotfiles) - 💫 NixOS configuration files
 
+## Objective-C 
+
+- [schuyler/macdown3000](https://github.com/schuyler/macdown3000) - A modern, lightweight Markdown editor for macOS.
+
 ## Others 
 
+- [LayerZero-Labs/awesome-layerzero](https://github.com/LayerZero-Labs/awesome-layerzero) - Everything you need to know about LayerZero in one complete resource.
 - [CVEProject/cvelistV5](https://github.com/CVEProject/cvelistV5) - CVE cache of the official CVE List in CVE JSON 5 format
 - [gotenberg/awesome-gotenberg](https://github.com/gotenberg/awesome-gotenberg) - :rainbow: A curated list of awesome things related to Gotenberg.
 - [citp/privacy-policy-historical](https://github.com/citp/privacy-policy-historical) - Historical website privacy policies spanning over two decades.
@@ -778,6 +782,7 @@
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins) - This is a crypto trading bot that scans the Binance Annoucements page for new coins, and places trades on Gateio
 - [balancer/balpy](https://github.com/balancer/balpy) - Tools for interacting with Balancer Protocol V2 in Python.
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [safe-global/safe-cli](https://github.com/safe-global/safe-cli) - Command line utility for Safe
@@ -793,10 +798,6 @@
 - [quan-digital/Pryno](https://github.com/quan-digital/Pryno) - Autonomous bot + bitmex trading infrastructure + dashboard + telegram bot. 🦏🔥🚀🥇
 - [Torxed/archoffline](https://github.com/Torxed/archoffline) - Arch Linux Offline ISO
 
-## Rich Text Format 
-
-- [schuyler/macdown3000](https://github.com/schuyler/macdown3000) - A modern, lightweight Markdown editor for macOS.
-
 ## Ruby 
 
 - [benbalter/gman](https://github.com/benbalter/gman) - A ruby gem to check if the owner of a given email address or website is working for THE MAN (a.k.a verifies government domains).
@@ -807,6 +808,7 @@
 
 ## Rust 
 
+- [LayerZero-Labs/ZeroOS](https://github.com/LayerZero-Labs/ZeroOS) - ZeroOS: A Universal Modular Library OS for zkVMs
 - [cloudflare/azul](https://github.com/cloudflare/azul) - An implementation of a static-ct-api certificate transparency log for deployment on Cloudflare Workers
 - [cdump/evmole](https://github.com/cdump/evmole) - Extracts function selectors, arguments, state mutability and storage layout from EVM bytecode, even for unverified contracts
 - [shindan-io/scnr](https://github.com/shindan-io/scnr) - deep file scanner tool
@@ -997,6 +999,18 @@
 
 ## Solidity 
 
+- [ProjectOpenSea/seaport-sol](https://github.com/ProjectOpenSea/seaport-sol) - Solidity helpers for working with Seaport on and off-chain using Forge scripts
+- [LayerZero-Labs/lz-address-book](https://github.com/LayerZero-Labs/lz-address-book) - Solidity address book and foundry test examples for testing custom unit and fork tests.
+- [LayerZero-Labs/LayerZero-v1](https://github.com/LayerZero-Labs/LayerZero-v1) - An Omnichain Interoperability Protocol
+- [ZhangZhuoSJTU/Web3Bugs](https://github.com/ZhangZhuoSJTU/Web3Bugs) - Demystifying Exploitable Bugs in Smart Contracts
+- [d-xo/weird-erc20](https://github.com/d-xo/weird-erc20) - weird erc20 tokens
+- [SunWeb3Sec/DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs) - To learn common smart contract vulnerabilities using Foundry!
+- [paco0x/amm-arbitrageur](https://github.com/paco0x/amm-arbitrageur) - An arbitrage bot between Uniswap AMMs
+- [lens-protocol/core](https://github.com/lens-protocol/core) - The Lens Protocol
+- [crytic/building-secure-contracts](https://github.com/crytic/building-secure-contracts) - Guidelines and training material to write secure smart contracts
+- [ProjectOpenSea/seaport](https://github.com/ProjectOpenSea/seaport) - Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs.
+- [libevm/subway](https://github.com/libevm/subway) - A practical example on how to perform sandwich attacks on Ethereum
+- [Vectorized/solady](https://github.com/Vectorized/solady) - Optimized Solidity snippets.
 - [mudgen/diamond-2-hardhat](https://github.com/mudgen/diamond-2-hardhat) - Gas-optimized EIP-2535 Diamond reference implementation using Hardhat and Solidity 0.8.*
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [0xfps/erc20-assembly](https://github.com/0xfps/erc20-assembly) - An ERC20 Token, but written in Inline Assembly.
@@ -1041,6 +1055,9 @@
 
 ## TypeScript 
 
+- [LayerZero-Labs/gasolina-aws](https://github.com/LayerZero-Labs/gasolina-aws) - This repository provides Infrastructure-As-Code (IAC) for installing Gasolina on AWS via CDK.
+- [LayerZero-Labs/devtools](https://github.com/LayerZero-Labs/devtools) - LayerZero Endpoint V2 Examples and Developer Tooling
+- [LayerZero-Labs/gasolina-gcp](https://github.com/LayerZero-Labs/gasolina-gcp) - 
 - [blockscout/chainscout](https://github.com/blockscout/chainscout) - 
 - [pdfme/pdfme](https://github.com/pdfme/pdfme) - Open-source PDF generation library built with TypeScript and React. Features a WYSIWYG template designer, PDF viewer, and powerful generation capabilities. Create custom PDFs effortlessly in both brow
 - [linagora/ToM-server](https://github.com/linagora/ToM-server) - 
