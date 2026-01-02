@@ -2141,6 +2141,7 @@
 
 ## others 
 
+- [konung/ubersicht-SystemInfoWidget](https://github.com/konung/ubersicht-SystemInfoWidget) - SystemInfo widget for ubersicht desktop widget system macOS
 - [ProjectOpenSea/seaport-sol](https://github.com/ProjectOpenSea/seaport-sol) - Solidity helpers for working with Seaport on and off-chain using Forge scripts
 - [LayerZero-Labs/gasolina-aws](https://github.com/LayerZero-Labs/gasolina-aws) - This repository provides Infrastructure-As-Code (IAC) for installing Gasolina on AWS via CDK.
 - [LayerZero-Labs/devtools](https://github.com/LayerZero-Labs/devtools) - LayerZero Endpoint V2 Examples and Developer Tooling
