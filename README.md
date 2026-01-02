@@ -10,6 +10,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [CoffeeScript](#coffeescript)
 - [Cython](#cython)
 - [D](#d)
 - [Dockerfile](#dockerfile)
@@ -125,6 +126,10 @@
 - [dhg/Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
 - [picturepan2/spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive and Modern CSS Framework
 - [daniruiz/flat-remix-css](https://github.com/daniruiz/flat-remix-css) - A lightweight CSS library that provides a set of predesigned elements useful for rapid web development. It follows a modern flat design using a colorful palette with some shadows, highlights, and grad
+
+## CoffeeScript 
+
+- [konung/ubersicht-SystemInfoWidget](https://github.com/konung/ubersicht-SystemInfoWidget) - SystemInfo widget for ubersicht desktop widget system macOS
 
 ## Cython 
 
