@@ -141,6 +141,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [mcp](#mcp)
 - [microservices](#microservices)
 - [minecraft](#minecraft)
 - [monero](#monero)
@@ -230,6 +231,7 @@
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
+- [userscript](#userscript)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [visualization](#visualization)
@@ -266,13 +268,14 @@
 
 ## ai 
 
+- [AhmedOsman101/commit-sage-cli](https://github.com/AhmedOsman101/commit-sage-cli) - Generates Conventional Commit messages with AI. Supports OpenAI, Ollama, and Gemini.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [aipotheosis-labs/gate22](https://github.com/aipotheosis-labs/gate22) - Open-source MCP gateway and control plane for teams to govern which tools agents can use, what they can do, and how it’s audited—across agentic IDEs like Cursor, or other agents and AI tools.
 - [BlackSnufkin/LitterBox](https://github.com/BlackSnufkin/LitterBox) - A secure sandbox environment for malware developers and red teamers to test payloads against detection mechanisms before deployment. Integrates with LLM agents via MCP for enhanced analysis capabiliti
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Easily build AI systems with Evals, RAG, Agents, fine-tuning, synthetic data, and more.
 - [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agent
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
 - [chonkie-inc/chonkie](https://github.com/chonkie-inc/chonkie) - 🦛 CHONK docs with Chonkie ✨ — The lightweight ingestion library for fast, efficient and robust RAG pipelines
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
 - [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
@@ -334,6 +337,8 @@
 
 ## android 
 
+- [soupslurpr/AppVerifier](https://github.com/soupslurpr/AppVerifier) - Verify apps easily.
+- [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [WSTxda/SwitchAI](https://github.com/WSTxda/SwitchAI) - Easily select and manage your preferred AI digital assistants on Android.
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
@@ -396,6 +401,7 @@
 
 ## automation 
 
+- [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [NullArray/AutoSploit](https://github.com/NullArray/AutoSploit) - Automated Mass Exploiter
@@ -569,6 +575,7 @@
 
 ## bugbounty 
 
+- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
@@ -643,6 +650,7 @@
 
 ## cli 
 
+- [AhmedOsman101/commit-sage-cli](https://github.com/AhmedOsman101/commit-sage-cli) - Generates Conventional Commit messages with AI. Supports OpenAI, Ollama, and Gemini.
 - [harehare/mq](https://github.com/harehare/mq) - jq-like command-line tool for markdown processing
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
@@ -711,6 +719,7 @@
 
 ## command-line 
 
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [xero/figlet-fonts](https://github.com/xero/figlet-fonts) - my collection of figlet / toilet ascii art fonts
 - [RhetTbull/applecrate](https://github.com/RhetTbull/applecrate) - Package your command line tools into a native macOS installer.
 - [sorairolake/qrtool](https://github.com/sorairolake/qrtool) - A command-line utility for encoding and decoding QR code
@@ -898,6 +907,7 @@
 
 ## deno 
 
+- [AhmedOsman101/commit-sage-cli](https://github.com/AhmedOsman101/commit-sage-cli) - Generates Conventional Commit messages with AI. Supports OpenAI, Ollama, and Gemini.
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own Bot with your favorite language, for Discord, or Telegram, or even Slack
 - [drashland/wocket](https://github.com/drashland/wocket) - A WebSocket library for Deno
 - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) - Deprecated. Use std/dotenv instead.
@@ -924,6 +934,7 @@
 
 ## developer-tools 
 
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
@@ -979,7 +990,7 @@
 - [herlesupreeth/docker_open5gs](https://github.com/herlesupreeth/docker_open5gs) - Docker files to run open5gs + IMS + eNB + gNB + NR-UE in a docker
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
 - [Aeternalis-Ingenium/FastAPI-Backend-Template](https://github.com/Aeternalis-Ingenium/FastAPI-Backend-Template) - A backend project template with FastAPI, PostgreSQL with asynchronous SQLAlchemy 2.0, Alembic for asynchronous database migration, and Docker.
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agent
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
 - [pfelk/pfelk](https://github.com/pfelk/pfelk) - pfSense/OPNsense + Elastic Stack
 - [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core) - AI agent microservice
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
@@ -1047,6 +1058,7 @@
 
 ## elixir 
 
+- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 50+ formats. Available for Rust, Python, Ruby, 
 - [pluralsh/plural](https://github.com/pluralsh/plural) - Enterprise Kubernetes management, accelerated. 🚀
 
 ## emacs 
@@ -1228,13 +1240,14 @@
 
 ## generative-ai 
 
-- [katanemo/plano](https://github.com/katanemo/plano) - Ship agents faster. Plano is delivery infrastructure for agentic applications - a smart proxy & dataplane that offloads plumbing work, so you stay focused on product logic.
+- [katanemo/plano](https://github.com/katanemo/plano) - Ship agents faster. Plano is delivery infrastructure for agentic applications - the AI-native proxy & dataplane that offloads plumbing work, so you stay focused on product logic.
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
 - [eugeneyan/obsidian-copilot](https://github.com/eugeneyan/obsidian-copilot) - 🤖 A prototype assistant for writing and thinking
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 
 ## git 
 
+- [AhmedOsman101/commit-sage-cli](https://github.com/AhmedOsman101/commit-sage-cli) - Generates Conventional Commit messages with AI. Supports OpenAI, Ollama, and Gemini.
 - [libgit2/pygit2](https://github.com/libgit2/pygit2) - Python bindings for libgit2
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [rgburke/grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
@@ -1245,6 +1258,7 @@
 
 ## github 
 
+- [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
 - [gwen001/github-search](https://github.com/gwen001/github-search) - A collection of tools to perform searches on GitHub.
@@ -1344,6 +1358,7 @@
 ## graphql 
 
 - [sourcegraph/src-cli](https://github.com/sourcegraph/src-cli) - Sourcegraph CLI
+- [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Python data model generator (Pydantic, dataclasses, TypedDict, msgspec) from OpenAPI, JSON Schema, GraphQL, and raw data (JSON/YAML/CSV).
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [pluralsh/plural](https://github.com/pluralsh/plural) - Enterprise Kubernetes management, accelerated. 🚀
 
@@ -1394,6 +1409,7 @@
 
 ## hacktoberfest 
 
+- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [practicajs/practica](https://github.com/practicajs/practica) - Node.js solution starter boilerplate that is production-ready, packed with ✅  best practices and built with simplicity in mind
 - [turbot/powerpipe](https://github.com/turbot/powerpipe) - Powerpipe: Dashboards for DevOps. Visualize cloud configurations. Assess security posture against a massive library of benchmarks. Build custom dashboards with code.
@@ -1627,6 +1643,7 @@
 
 ## kotlin 
 
+- [soupslurpr/AppVerifier](https://github.com/soupslurpr/AppVerifier) - Verify apps easily.
 - [WSTxda/SwitchAI](https://github.com/WSTxda/SwitchAI) - Easily select and manage your preferred AI digital assistants on Android.
 - [py2many/py2many](https://github.com/py2many/py2many) - Transpiler of Python to many other languages
 
@@ -1672,9 +1689,10 @@
 
 ## linux 
 
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [workflow/dotfiles](https://github.com/workflow/dotfiles) - 💫 NixOS configuration files
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agent
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
@@ -1719,6 +1737,7 @@
 
 ## llm 
 
+- [AhmedOsman101/commit-sage-cli](https://github.com/AhmedOsman101/commit-sage-cli) - Generates Conventional Commit messages with AI. Supports OpenAI, Ollama, and Gemini.
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
 - [microsoft/poml](https://github.com/microsoft/poml) - Prompt Orchestration Markup Language
 - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest LLM gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & &lt;100 µs overhead at 5k RPS.
@@ -1799,6 +1818,7 @@
 
 ## macos 
 
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [Brandon7CC/mac-monitor](https://github.com/Brandon7CC/mac-monitor) - "The missing ProcMon for macOS": Mac Monitor records Endpoint Security events and displays them for analysis.
 - [schuyler/macdown3000](https://github.com/schuyler/macdown3000) - A modern, lightweight Markdown editor for macOS.
@@ -1806,7 +1826,7 @@
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Easily build AI systems with Evals, RAG, Agents, fine-tuning, synthetic data, and more.
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agent
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [RhetTbull/applecrate](https://github.com/RhetTbull/applecrate) - Package your command line tools into a native macOS installer.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
@@ -1862,8 +1882,24 @@
 
 ## material-design 
 
+- [soupslurpr/AppVerifier](https://github.com/soupslurpr/AppVerifier) - Verify apps easily.
 - [WSTxda/SwitchAI](https://github.com/WSTxda/SwitchAI) - Easily select and manage your preferred AI digital assistants on Android.
 - [daniruiz/flat-remix-css](https://github.com/daniruiz/flat-remix-css) - A lightweight CSS library that provides a set of predesigned elements useful for rapid web development. It follows a modern flat design using a colorful palette with some shadows, highlights, and grad
+
+## mcp 
+
+- [harehare/mq](https://github.com/harehare/mq) - jq-like command-line tool for markdown processing
+- [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
+- [aipotheosis-labs/gate22](https://github.com/aipotheosis-labs/gate22) - Open-source MCP gateway and control plane for teams to govern which tools agents can use, what they can do, and how it’s audited—across agentic IDEs like Cursor, or other agents and AI tools.
+- [BlackSnufkin/LitterBox](https://github.com/BlackSnufkin/LitterBox) - A secure sandbox environment for malware developers and red teamers to test payloads against detection mechanisms before deployment. Integrates with LLM agents via MCP for enhanced analysis capabiliti
+- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Easily build AI systems with Evals, RAG, Agents, fine-tuning, synthetic data, and more.
+- [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
+- [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
+- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
+- [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core) - AI agent microservice
+- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 
 ## microservices 
 
@@ -2092,10 +2128,11 @@
 
 ## openai 
 
+- [AhmedOsman101/commit-sage-cli](https://github.com/AhmedOsman101/commit-sage-cli) - Generates Conventional Commit messages with AI. Supports OpenAI, Ollama, and Gemini.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Easily build AI systems with Evals, RAG, Agents, fine-tuning, synthetic data, and more.
-- [katanemo/plano](https://github.com/katanemo/plano) - Ship agents faster. Plano is delivery infrastructure for agentic applications - a smart proxy & dataplane that offloads plumbing work, so you stay focused on product logic.
+- [katanemo/plano](https://github.com/katanemo/plano) - Ship agents faster. Plano is delivery infrastructure for agentic applications - the AI-native proxy & dataplane that offloads plumbing work, so you stay focused on product logic.
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
@@ -2141,7 +2178,7 @@
 
 ## others 
 
-- [konung/ubersicht-SystemInfoWidget](https://github.com/konung/ubersicht-SystemInfoWidget) - SystemInfo widget for ubersicht desktop widget system macOS
+- [Watchful1/PushshiftDumps](https://github.com/Watchful1/PushshiftDumps) - Example scripts for the pushshift dump files
 - [ProjectOpenSea/seaport-sol](https://github.com/ProjectOpenSea/seaport-sol) - Solidity helpers for working with Seaport on and off-chain using Forge scripts
 - [LayerZero-Labs/gasolina-aws](https://github.com/LayerZero-Labs/gasolina-aws) - This repository provides Infrastructure-As-Code (IAC) for installing Gasolina on AWS via CDK.
 - [LayerZero-Labs/devtools](https://github.com/LayerZero-Labs/devtools) - LayerZero Endpoint V2 Examples and Developer Tooling
@@ -2188,7 +2225,6 @@
 - [digitalmethodsinitiative/zeeschuimer](https://github.com/digitalmethodsinitiative/zeeschuimer) - A browser extension to collect social media data with.
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - stagewise is the first frontend coding agent for existing production-grade web apps 🪄  -- Lives inside your browser 💻 -- Makes changes in local codebase 🤓 -- Compatible with all kinds of frameworks an
-- [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
 - [microsoft/vscode-ripgrep](https://github.com/microsoft/vscode-ripgrep) - For consuming the ripgrep binary from microsoft/ripgrep-prebuilt in a Node project
 - [unixwzrd/venvutil](https://github.com/unixwzrd/venvutil) - Python virtual environment management functions and script to build and manage performance, compatibility, and regression test venv builds mostly for AI
 - [jason-tan-swe/railway-mcp](https://github.com/jason-tan-swe/railway-mcp) - An unofficial and community-built MCP server for integrating with https://railway.app
@@ -2249,7 +2285,7 @@
 - [stipub/stixfonts](https://github.com/stipub/stixfonts) - OpenType Unicode fonts for Scientific, Technical, and Mathematical texts
 - [erikdkennedy/figtree](https://github.com/erikdkennedy/figtree) - A friendly, simple geometric sans serif font
 - [ekmas/cs16.css](https://github.com/ekmas/cs16.css) - CSS library based on Counter Strike 1.6 UI.
-- [sst/openauth](https://github.com/sst/openauth) - ▦ Universal, standards-based auth provider.
+- [anomalyco/openauth](https://github.com/anomalyco/openauth) - ▦ Universal, standards-based auth provider.
 - [frereit/bootstring](https://github.com/frereit/bootstring) - A Python implementation of the bootstring algorithm (RFC3492)
 - [namehash/namekit](https://github.com/namehash/namekit) - Easily integrate rich ENS user journeys into your wallet, app, or game.
 - [TakWolf/unidata-blocks](https://github.com/TakWolf/unidata-blocks) - A library that helps query Unicode blocks by Blocks.txt
@@ -2605,6 +2641,7 @@
 
 ## php 
 
+- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 50+ formats. Available for Rust, Python, Ruby, 
 - [gwen001/github-search](https://github.com/gwen001/github-search) - A collection of tools to perform searches on GitHub.
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [apioo/fusio](https://github.com/apioo/fusio) - Self-Hosted API Management for Builders
@@ -2651,6 +2688,7 @@
 
 ## privacy 
 
+- [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [CIRCL/AIL-framework](https://github.com/CIRCL/AIL-framework) - AIL framework - Analysis Information Leak framework. Project moved to https://github.com/ail-project
 - [cedws/apple-telemetry](https://github.com/cedws/apple-telemetry) - Domain blocklists, IP blocklists, Little Snitch .lsrules, and cloaking files for blocking Apple telemetry
@@ -2669,6 +2707,7 @@
 
 ## productivity 
 
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - for desktop and mobile
@@ -2697,6 +2736,7 @@
 
 ## python 
 
+- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [crytic/pyevmasm](https://github.com/crytic/pyevmasm) - Ethereum Virtual Machine (EVM) disassembler and assembler
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [deepnote/deepnote](https://github.com/deepnote/deepnote) - Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote c
@@ -2707,7 +2747,7 @@
 - [razorblade23/PyCrucible](https://github.com/razorblade23/PyCrucible) - A robust, cross-platform builder and launcher for Python apps using UV. Built with Rust.
 - [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 50+ formats. Available for Rust, Python, Ruby, 
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Easily build AI systems with Evals, RAG, Agents, fine-tuning, synthetic data, and more.
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agent
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
 - [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
 - [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
@@ -2778,7 +2818,7 @@
 - [explosion/srsly](https://github.com/explosion/srsly) - 🦉 Modern high-performance serialization utilities for Python (JSON, MessagePack, Pickle)
 - [FI-Mihej/Cengal](https://github.com/FI-Mihej/Cengal) - Bytecode manipulation in runtime, true shared memory, async LMDB, async Tkinter, async wxPython, async PySide, async PyQt, async loop with almost preemptive multitasking within the single thread, text
 - [openapi-generators/openapi-python-client](https://github.com/openapi-generators/openapi-python-client) - Generate modern Python clients from OpenAPI
-- [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
+- [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Python data model generator (Pydantic, dataclasses, TypedDict, msgspec) from OpenAPI, JSON Schema, GraphQL, and raw data (JSON/YAML/CSV).
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast a
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -3018,12 +3058,16 @@
 
 ## security 
 
+- [soupslurpr/AppVerifier](https://github.com/soupslurpr/AppVerifier) - Verify apps easily.
+- [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
+- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
+- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [turbot/powerpipe](https://github.com/turbot/powerpipe) - Powerpipe: Dashboards for DevOps. Visualize cloud configurations. Assess security posture against a massive library of benchmarks. Build custom dashboards with code.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 - [vpn-kill-switch/killswitch](https://github.com/vpn-kill-switch/killswitch) - VPN kill switch for macOS
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [endojs/endo](https://github.com/endojs/endo) - Endo is a distributed secure JavaScript sandbox, based on SES
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agent
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
 - [CIRCL/AIL-framework](https://github.com/CIRCL/AIL-framework) - AIL framework - Analysis Information Leak framework. Project moved to https://github.com/ail-project
 - [safedep/vet](https://github.com/safedep/vet) - Protect against malicious open source packages 🤖
 - [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python
@@ -3091,6 +3135,7 @@
 
 ## security-tools 
 
+- [soupslurpr/AppVerifier](https://github.com/soupslurpr/AppVerifier) - Verify apps easily.
 - [owasp-dep-scan/dep-scan](https://github.com/owasp-dep-scan/dep-scan) - OWASP dep-scan is a next-generation security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies. Both local repositories and container ima
 - [pygod-team/pygod](https://github.com/pygod-team/pygod) - A Python Library for Graph Outlier Detection (Anomaly Detection)
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
@@ -3137,7 +3182,7 @@
 
 ## self-hosted 
 
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agent
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
@@ -3349,6 +3394,7 @@
 
 ## terminal 
 
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
@@ -3514,6 +3560,12 @@
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 - [Spiderpig86/Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the modern web.
 
+## userscript 
+
+- [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
+- [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - for desktop and mobile
+- [Bl4Cc4t/GoodTwitter2](https://github.com/Bl4Cc4t/GoodTwitter2) - Userscript to modify the looks of twitter.com
+
 ## vim 
 
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
@@ -3632,6 +3684,7 @@
 
 ## windows 
 
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Easily build AI systems with Evals, RAG, Agents, fine-tuning, synthetic data, and more.
