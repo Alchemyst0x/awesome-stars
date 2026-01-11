@@ -50,6 +50,7 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+- [YAML](#yaml)
 - [YARA](#yara)
 - [Zig](#zig)
 - [reStructuredText](#restructuredtext)
@@ -60,6 +61,7 @@
 
 ## C 
 
+- [AsahiLinux/linux](https://github.com/AsahiLinux/linux) - Linux kernel source tree
 - [open5gs/open5gs](https://github.com/open5gs/open5gs) - Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-17)
 - [apple-oss-distributions/Security](https://github.com/apple-oss-distributions/Security) - 
 - [hydradatabase/columnar](https://github.com/hydradatabase/columnar) - Postgres-native columnar storage extension
@@ -156,6 +158,7 @@
 
 ## Go 
 
+- [google/certificate-transparency-go](https://github.com/google/certificate-transparency-go) - Auditing for TLS certificates (Go code)
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
@@ -177,7 +180,7 @@
 - [brianshea2/addr.tools](https://github.com/brianshea2/addr.tools) - possibly useful tools for the Internet
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A lightweight Airflow alternative for small teams. Builtin Web UI. Define workflow in a simple declarative YAML format.  Execute them anywhere, compose complex pipelines from reusable sub-workflows, a
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A self-contained, lightweight workflow engine with a built-in Web UI. Define workflows in a simple, declarative YAML format. Execute them anywhere, compose complex pipelines, and distribute tasks. Zer
 - [nathanbrock/littlesnitch-country-blocklists](https://github.com/nathanbrock/littlesnitch-country-blocklists) - A collection of LittleSnitch rule sets to block outbound connections to a given country.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
@@ -839,7 +842,7 @@
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
 - [daac-tools/find-simdoc](https://github.com/daac-tools/find-simdoc) - Finding all pairs of similar documents time- and memory-efficiently
 - [ravendevteam/alternet](https://github.com/ravendevteam/alternet) - A completely decentralized alternative to the current-day web.
-- [katanemo/plano](https://github.com/katanemo/plano) - Ship agents faster. Plano is delivery infrastructure for agentic applications: an AI-native proxy & dataplane that offloads plumbing work, so you stay focused on your agent's core logic.
+- [katanemo/plano](https://github.com/katanemo/plano) - Ship agents faster. Plano is delivery infrastructure for agentic applications: an AI-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic.
 - [reportersunited/json-carver](https://github.com/reportersunited/json-carver) - Digital forensics tool that reads (carves) JSON strings from a dump. Think of it as a more accurate and faster replacement for the strings(1) utility.
 - [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 - [awolverp/cachebox](https://github.com/awolverp/cachebox) - The fastest memoizing and caching Python library written in Rust.
@@ -1072,6 +1075,7 @@
 
 ## TypeScript 
 
+- [astudentinearth/darkwrite](https://github.com/astudentinearth/darkwrite) - The eye-candy note taking and to-do application for all desktops
 - [AhmedOsman101/commit-sage-cli](https://github.com/AhmedOsman101/commit-sage-cli) - Generates Conventional Commit messages with AI. Supports OpenAI, Ollama, and Gemini.
 - [LayerZero-Labs/gasolina-aws](https://github.com/LayerZero-Labs/gasolina-aws) - This repository provides Infrastructure-As-Code (IAC) for installing Gasolina on AWS via CDK.
 - [LayerZero-Labs/devtools](https://github.com/LayerZero-Labs/devtools) - LayerZero Endpoint V2 Examples and Developer Tooling
@@ -1111,7 +1115,7 @@
 - [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack) - Deobfuscate obfuscator.io, unminify and unpack bundled javascript
 - [SashaBusinaro/yaml-compose-sorter](https://github.com/SashaBusinaro/yaml-compose-sorter) - A vscode extension that sorts and formats Docker Compose YAML files with consistent key ordering and improved readability.
 - [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
-- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [iamnivekx/blockchain-notes](https://github.com/iamnivekx/blockchain-notes) - 
 - [gridaco/assistant](https://github.com/gridaco/assistant) - 🤖  Bring your Figma design & development pipeline to the next level - with design to code, in-design-content-management, component management, tools for faster design
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
@@ -1305,6 +1309,10 @@
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippet manager for developers
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [coinos/coinos-classic](https://github.com/coinos/coinos-classic) - A bitcoin wallet app
+
+## YAML 
+
+- [usnistgov/macos_security](https://github.com/usnistgov/macos_security) - macOS Security Compliance Project
 
 ## YARA 
 
