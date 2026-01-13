@@ -233,6 +233,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [userscript](#userscript)
+- [video](#video)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [visualization](#visualization)
@@ -495,6 +496,7 @@
 
 ## bash 
 
+- [usnistgov/macos_security](https://github.com/usnistgov/macos_security) - macOS Security Compliance Project
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [gwen001/github-search](https://github.com/gwen001/github-search) - A collection of tools to perform searches on GitHub.
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
@@ -963,7 +965,7 @@
 
 - [turbot/powerpipe](https://github.com/turbot/powerpipe) - Powerpipe: Dashboards for DevOps. Visualize cloud configurations. Assess security posture against a massive library of benchmarks. Build custom dashboards with code.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A lightweight Airflow alternative for small teams. Builtin Web UI. Define workflow in a simple declarative YAML format.  Execute them anywhere, compose complex pipelines from reusable sub-workflows, a
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A self-contained, lightweight workflow engine with a built-in Web UI. Define workflows in a simple, declarative YAML format. Execute them anywhere, compose complex pipelines, and distribute tasks. Zer
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
@@ -1244,7 +1246,7 @@
 
 ## generative-ai 
 
-- [katanemo/plano](https://github.com/katanemo/plano) - Ship agents faster. Plano is delivery infrastructure for agentic applications: an AI-native proxy & dataplane that offloads plumbing work, so you stay focused on your agent's core logic.
+- [katanemo/plano](https://github.com/katanemo/plano) - Delivery infrastructure for agentic apps: An AI-native proxy and data plane that offloads plumbing work in AI, so you stay focused on your agent's core logic (using any AI framework).
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [eugeneyan/obsidian-copilot](https://github.com/eugeneyan/obsidian-copilot) - 🤖 A prototype assistant for writing and thinking
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
@@ -1825,6 +1827,7 @@
 
 ## macos 
 
+- [usnistgov/macos_security](https://github.com/usnistgov/macos_security) - macOS Security Compliance Project
 - [astudentinearth/darkwrite](https://github.com/astudentinearth/darkwrite) - The eye-candy note taking and to-do application for all desktops
 - [zfoxer/foo_scrobbler_mac](https://github.com/zfoxer/foo_scrobbler_mac) - Last.fm scrobbler plugin for foobar2000 on macOS. Submits your played tracks to Last.fm, where you can view listening history and statistics.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
@@ -2144,7 +2147,7 @@
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.
-- [katanemo/plano](https://github.com/katanemo/plano) - Ship agents faster. Plano is delivery infrastructure for agentic applications: an AI-native proxy & dataplane that offloads plumbing work, so you stay focused on your agent's core logic.
+- [katanemo/plano](https://github.com/katanemo/plano) - Delivery infrastructure for agentic apps: An AI-native proxy and data plane that offloads plumbing work in AI, so you stay focused on your agent's core logic (using any AI framework).
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
 - [voideditor/void](https://github.com/voideditor/void) - 
@@ -2189,6 +2192,8 @@
 
 ## others 
 
+- [tinkerbell/tinkerbell](https://github.com/tinkerbell/tinkerbell) - Bare metal provisioning engine, supporting network and ISO booting, BMC interactions, metadata service, and workflow engine.
+- [AsahiLinux/linux](https://github.com/AsahiLinux/linux) - Linux kernel source tree
 - [google/certificate-transparency-go](https://github.com/google/certificate-transparency-go) - Auditing for TLS certificates (Go code)
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [maratori/golangci-lint-config](https://github.com/maratori/golangci-lint-config) - Golden config for golangci-lint
@@ -2874,6 +2879,7 @@
 
 ## python3 
 
+- [usnistgov/macos_security](https://github.com/usnistgov/macos_security) - macOS Security Compliance Project
 - [PrettyGoodCapital/finance-enums](https://github.com/PrettyGoodCapital/finance-enums) - Standard Financial Enumerations
 - [smartystreets/smartystreets-python-sdk](https://github.com/smartystreets/smartystreets-python-sdk) - The official client libraries for accessing SmartyStreets APIs from Python 2.7 and 3.5
 - [makukha/caseutil](https://github.com/makukha/caseutil) - Case convert and verify for Python: snake_case, camelCase, kebab-case, and more.
@@ -3590,6 +3596,10 @@
 - [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - for desktop and mobile
 - [Bl4Cc4t/GoodTwitter2](https://github.com/Bl4Cc4t/GoodTwitter2) - Userscript to modify the looks of twitter.com
 
+## video 
+
+- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
+
 ## vim 
 
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
@@ -3750,6 +3760,7 @@
 
 ## zsh 
 
+- [usnistgov/macos_security](https://github.com/usnistgov/macos_security) - macOS Security Compliance Project
 - [alex-popov-tech/.dotfiles](https://github.com/alex-popov-tech/.dotfiles) - 💻 My settings for macOS, wezterm, zsh, nvim, and more 🛠
 - [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
 - [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - {bash,zsh,fish,powershell,nushell}-completions for 1000+ commands.
