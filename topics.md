@@ -836,7 +836,6 @@
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and infra teams.
 - [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [disclose/research-threats](https://github.com/disclose/research-threats) - Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg
@@ -1246,7 +1245,7 @@
 
 ## generative-ai 
 
-- [katanemo/plano](https://github.com/katanemo/plano) - Delivery infrastructure for agentic apps: An AI-native proxy and data plane that offloads plumbing work in AI, so you stay focused on your agent's core logic (using any AI framework).
+- [katanemo/plano](https://github.com/katanemo/plano) - Delivery infrastructure for agentic apps - an AI-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic (via any AI framework).
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [eugeneyan/obsidian-copilot](https://github.com/eugeneyan/obsidian-copilot) - 🤖 A prototype assistant for writing and thinking
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
@@ -2147,7 +2146,7 @@
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.
-- [katanemo/plano](https://github.com/katanemo/plano) - Delivery infrastructure for agentic apps: An AI-native proxy and data plane that offloads plumbing work in AI, so you stay focused on your agent's core logic (using any AI framework).
+- [katanemo/plano](https://github.com/katanemo/plano) - Delivery infrastructure for agentic apps - an AI-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic (via any AI framework).
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
 - [voideditor/void](https://github.com/voideditor/void) - 
@@ -2350,7 +2349,7 @@
 - [misaghsoltani/LightLog](https://github.com/misaghsoltani/LightLog) - A lightweight, flexible logging library for Python, using a C++ core and with support for distributed computing environments
 - [nuxtrdev/nuxtr-vscode](https://github.com/nuxtrdev/nuxtr-vscode) - An extension offering commands and tools to make your experience with Nuxt more pleasant.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
-- [neomutt/lsp-tree-sitter](https://github.com/neomutt/lsp-tree-sitter) - A library to create language servers.
+- [neomutt/lsp-tree-sitter](https://github.com/neomutt/lsp-tree-sitter) - ⚙️ A library to create language servers
 - [jayant2014/Bash-Scripting](https://github.com/jayant2014/Bash-Scripting) - This repository is for Udemy Bash Scripting course.
 - [Md-MamunAbdulKayum/shell-scripting-examples](https://github.com/Md-MamunAbdulKayum/shell-scripting-examples) - This repository contains all the important shell/bash scripting examples (e.g. basic programming constructs, accessing database, reading properties file, file manipulation, etc) anyone may need.
 - [yangxy/PASD](https://github.com/yangxy/PASD) - [ECCV2024] Pixel-Aware Stable Diffusion for Realistic Image Super-Resolution and Personalized Stylization
