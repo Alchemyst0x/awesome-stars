@@ -1826,6 +1826,7 @@
 
 ## macos 
 
+- [Sovereign-Engineering/obscuravpn-client](https://github.com/Sovereign-Engineering/obscuravpn-client) - Obscura VPN Rust library and App (macOS only for now)
 - [usnistgov/macos_security](https://github.com/usnistgov/macos_security) - macOS Security Compliance Project
 - [astudentinearth/darkwrite](https://github.com/astudentinearth/darkwrite) - The eye-candy note taking and to-do application for all desktops
 - [zfoxer/foo_scrobbler_mac](https://github.com/zfoxer/foo_scrobbler_mac) - Last.fm scrobbler plugin for foobar2000 on macOS. Submits your played tracks to Last.fm, where you can view listening history and statistics.
@@ -3024,6 +3025,7 @@
 
 ## rust 
 
+- [Sovereign-Engineering/obscuravpn-client](https://github.com/Sovereign-Engineering/obscuravpn-client) - Obscura VPN Rust library and App (macOS only for now)
 - [kamadorueda/alejandra](https://github.com/kamadorueda/alejandra) - The Uncompromising Nix Code Formatter
 - [harehare/mq](https://github.com/harehare/mq) - jq-like command-line tool for markdown processing
 - [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 Linter for Postgres migrations & SQL
