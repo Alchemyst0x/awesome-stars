@@ -19,7 +19,6 @@
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
-- [Io](#io)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -61,6 +60,7 @@
 
 ## C 
 
+- [kaansenol5/VibeOS](https://github.com/kaansenol5/VibeOS) - A completely vibecoded operating system targeting Aarch64
 - [AsahiLinux/linux](https://github.com/AsahiLinux/linux) - Linux kernel source tree
 - [open5gs/open5gs](https://github.com/open5gs/open5gs) - Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-17)
 - [apple-oss-distributions/Security](https://github.com/apple-oss-distributions/Security) - 
@@ -158,6 +158,7 @@
 
 ## Go 
 
+- [tinkerbell/tinkerbell](https://github.com/tinkerbell/tinkerbell) - Bare metal provisioning engine, supporting network and ISO booting, BMC interactions, metadata service, and workflow engine.
 - [google/certificate-transparency-go](https://github.com/google/certificate-transparency-go) - Auditing for TLS certificates (Go code)
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
@@ -277,10 +278,6 @@
 - [crytic/echidna](https://github.com/crytic/echidna) - Ethereum smart contract fuzzer
 - [dapphub/dapptools](https://github.com/dapphub/dapptools) - Dapp, Seth, Hevm, and more
 - [elm/compiler](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
-
-## Io 
-
-- [ethereum/execution-apis](https://github.com/ethereum/execution-apis) - Collection of APIs provided by Ethereum execution layer clients
 
 ## Java 
 
@@ -449,6 +446,7 @@
 ## MDX 
 
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
+- [ethereum/execution-apis](https://github.com/ethereum/execution-apis) - Collection of APIs provided by Ethereum execution layer clients
 
 ## Makefile 
 
@@ -582,7 +580,6 @@
 - [crytic/pyevmasm](https://github.com/crytic/pyevmasm) - Ethereum Virtual Machine (EVM) disassembler and assembler
 - [dotpy/py-pf](https://github.com/dotpy/py-pf) - Python module for managing OpenBSD's Packet Filter
 - [n0fate/chainbreaker](https://github.com/n0fate/chainbreaker) - Mac OS X Keychain Forensic Tool
-- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [browser-use/macOS-use](https://github.com/browser-use/macOS-use) - Make Mac apps accessible for AI agents
 - [browser-use/template-library](https://github.com/browser-use/template-library) - Template library for browser-use CLI
@@ -707,7 +704,7 @@
 - [clecherbauer/docker-alias](https://github.com/clecherbauer/docker-alias) - Loader for containerized-tools
 - [misaghsoltani/LightLog](https://github.com/misaghsoltani/LightLog) - A lightweight, flexible logging library for Python, using a C++ core and with support for distributed computing environments
 - [gefyrahq/gefyra](https://github.com/gefyrahq/gefyra) - Blazingly-fast :rocket:, rock-solid, local application development :arrow_right: with Kubernetes.
-- [neomutt/lsp-tree-sitter](https://github.com/neomutt/lsp-tree-sitter) - A library to create language servers.
+- [neomutt/lsp-tree-sitter](https://github.com/neomutt/lsp-tree-sitter) - ⚙️ A library to create language servers
 - [JoranHonig/tree-sitter-solidity](https://github.com/JoranHonig/tree-sitter-solidity) - Solidity grammar for tree sitter
 - [yangxy/PASD](https://github.com/yangxy/PASD) - [ECCV2024] Pixel-Aware Stable Diffusion for Realistic Image Super-Resolution and Personalized Stylization
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and infra teams.
@@ -842,7 +839,7 @@
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
 - [daac-tools/find-simdoc](https://github.com/daac-tools/find-simdoc) - Finding all pairs of similar documents time- and memory-efficiently
 - [ravendevteam/alternet](https://github.com/ravendevteam/alternet) - A completely decentralized alternative to the current-day web.
-- [katanemo/plano](https://github.com/katanemo/plano) - Ship agents faster. Plano is delivery infrastructure for agentic applications: an AI-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic.
+- [katanemo/plano](https://github.com/katanemo/plano) - Delivery infrastructure for agentic apps - Plano is an AI-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic (via any AI framework).
 - [reportersunited/json-carver](https://github.com/reportersunited/json-carver) - Digital forensics tool that reads (carves) JSON strings from a dump. Think of it as a more accurate and faster replacement for the strings(1) utility.
 - [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 - [awolverp/cachebox](https://github.com/awolverp/cachebox) - The fastest memoizing and caching Python library written in Rust.
@@ -1066,6 +1063,7 @@
 
 ## Swift 
 
+- [Sovereign-Engineering/obscuravpn-client](https://github.com/Sovereign-Engineering/obscuravpn-client) - Obscura VPN Rust library and App (macOS only for now)
 - [Brandon7CC/mac-monitor](https://github.com/Brandon7CC/mac-monitor) - "The missing ProcMon for macOS": Mac Monitor records Endpoint Security events and displays them for analysis.
 - [OpenJelly/Open-Jellycore](https://github.com/OpenJelly/Open-Jellycore) - A compiler for the Jelly language that allows you to create Apple Shortcuts using Jelly!
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
@@ -1081,11 +1079,11 @@
 - [LayerZero-Labs/devtools](https://github.com/LayerZero-Labs/devtools) - LayerZero Endpoint V2 Examples and Developer Tooling
 - [LayerZero-Labs/gasolina-gcp](https://github.com/LayerZero-Labs/gasolina-gcp) - 
 - [blockscout/chainscout](https://github.com/blockscout/chainscout) - 
+- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [pdfme/pdfme](https://github.com/pdfme/pdfme) - Open-source PDF generation library built with TypeScript and React. Features a WYSIWYG template designer, PDF viewer, and powerful generation capabilities. Create custom PDFs effortlessly in both brow
 - [linagora/ToM-server](https://github.com/linagora/ToM-server) - 
 - [deepnote/deepnote](https://github.com/deepnote/deepnote) - Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote c
 - [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, wi
-- [EveripediaNetwork/ep-api](https://github.com/EveripediaNetwork/ep-api) - 🚀 IQ.wiki API
 - [aureliushq/aurelius](https://github.com/aureliushq/aurelius) - Aurelius is a privacy-focused, local-first writing application designed to nurture consistent writing habits. Eliminate distractions when writing, track your daily writing goal, and more.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
