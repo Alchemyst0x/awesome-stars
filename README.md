@@ -45,6 +45,7 @@
 - [SCSS](#scss)
 - [Shell](#shell)
 - [Solidity](#solidity)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
@@ -253,7 +254,6 @@
 
 - [Mickinthemiddle/CLOAK](https://github.com/Mickinthemiddle/CLOAK) - Knowledge base on cybercriminal concealment techniques
 - [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 50+ formats. Available for Rust, Python, Ruby, 
-- [TorstenDittmann/launch.css](https://github.com/TorstenDittmann/launch.css) - A classless CSS framework built for speed. Style your website later—build it now.
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [Myzel394/amiopen.now](https://github.com/Myzel394/amiopen.now) - A terminal-aware website to check if your ports are open or if your ISP is blocking any outgoing ports
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
@@ -1060,6 +1060,10 @@
 - [simuty/aaveV3-polygon-flashloan-bot](https://github.com/simuty/aaveV3-polygon-flashloan-bot) - This is a Flashloan Bot that's designed to work on the AAVE V3 Protocol and Polygon Network.
 - [nsinthunont/nft-royalties](https://github.com/nsinthunont/nft-royalties) - Smart contract template to support NFTs whereby the artist gets a royalty from all future transactions of the NFT
 - [nmushegian/wand](https://github.com/nmushegian/wand) - DSProxy 2.0
+
+## Svelte 
+
+- [TorstenDittmann/launch.css](https://github.com/TorstenDittmann/launch.css) - A classless CSS framework built for speed. Style your website later—build it now.
 
 ## Swift 
 
