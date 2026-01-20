@@ -574,6 +574,8 @@
 
 ## Python 
 
+- [mikeperry-tor/vanguards](https://github.com/mikeperry-tor/vanguards) - Vanguards help guard you from getting vanned...
+- [mikeperry-tor/HostileShop](https://github.com/mikeperry-tor/HostileShop) - A Quaint Hostel Shop with Sharp Tools
 - [nhairs/python-json-logger](https://github.com/nhairs/python-json-logger) - JSON Formatter for Python Logging
 - [pylast/pylast](https://github.com/pylast/pylast) - A Python interface to Last.fm and Libre.fm
 - [Watchful1/PushshiftDumps](https://github.com/Watchful1/PushshiftDumps) - Example scripts for the pushshift dump files
@@ -1289,7 +1291,7 @@
 - [sunflower-land/sunflower-land](https://github.com/sunflower-land/sunflower-land) - 
 - [balancer/balancer-subgraph-v2](https://github.com/balancer/balancer-subgraph-v2) - Subgraph (Graph Protocol) data layer for Balancer v2 vault, swaps, txs, users
 - [safe-fndn/safe-smart-account](https://github.com/safe-fndn/safe-smart-account) - Safe allows secure management of blockchain assets.
-- [Reya-Labs/voltz-core](https://github.com/Reya-Labs/voltz-core) - Core smart contracts of Voltz v1
+- [Reya-Labs-Backup/voltz-core](https://github.com/Reya-Labs-Backup/voltz-core) - Core smart contracts of Voltz v1
 - [wighawag/template-ethereum-contracts](https://github.com/wighawag/template-ethereum-contracts) - Template to develop ethereum smart contracts
 - [0xProject/protocol](https://github.com/0xProject/protocol) - 
 - [xyfir/ptorx](https://github.com/xyfir/ptorx) - 📩🛡 Email privacy. Anonymously send and receive with alias forwarding. (Abandoned)
