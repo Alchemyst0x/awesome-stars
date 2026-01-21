@@ -151,6 +151,7 @@
 - [mysql](#mysql)
 - [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
+- [neovim-colorscheme](#neovim-colorscheme)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nim](#nim)
@@ -1985,6 +1986,10 @@
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
 
+## neovim-colorscheme 
+
+- [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
+
 ## neural-network 
 
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
@@ -2190,6 +2195,8 @@
 
 ## others 
 
+- [mikeperry-tor/vanguards](https://github.com/mikeperry-tor/vanguards) - Vanguards help guard you from getting vanned...
+- [mikeperry-tor/HostileShop](https://github.com/mikeperry-tor/HostileShop) - A Quaint Hostel Shop with Sharp Tools
 - [kaansenol5/VibeOS](https://github.com/kaansenol5/VibeOS) - A completely vibecoded operating system targeting Aarch64
 - [tinkerbell/tinkerbell](https://github.com/tinkerbell/tinkerbell) - Bare metal provisioning engine, supporting network and ISO booting, BMC interactions, metadata service, and workflow engine.
 - [AsahiLinux/linux](https://github.com/AsahiLinux/linux) - Linux kernel source tree
@@ -2557,7 +2564,7 @@
 - [simuty/aaveV3-polygon-flashloan-bot](https://github.com/simuty/aaveV3-polygon-flashloan-bot) - This is a Flashloan Bot that's designed to work on the AAVE V3 Protocol and Polygon Network.
 - [coinos/coinos-classic](https://github.com/coinos/coinos-classic) - A bitcoin wallet app
 - [akash-network/awesome-akash](https://github.com/akash-network/awesome-akash) - Awesome List of Akash Deployment Examples
-- [Reya-Labs/voltz-core](https://github.com/Reya-Labs/voltz-core) - Core smart contracts of Voltz v1
+- [Reya-Labs-Backup/voltz-core](https://github.com/Reya-Labs-Backup/voltz-core) - Core smart contracts of Voltz v1
 - [safe-global/safe-cli](https://github.com/safe-global/safe-cli) - Command line utility for Safe
 - [amgxv/SpotifyAdBlocker-macOS](https://github.com/amgxv/SpotifyAdBlocker-macOS) - Block Spotify Ads on macOS
 - [feather-wallet/feather](https://github.com/feather-wallet/feather) - A free and open-source Monero desktop wallet.
