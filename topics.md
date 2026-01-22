@@ -2564,7 +2564,7 @@
 - [simuty/aaveV3-polygon-flashloan-bot](https://github.com/simuty/aaveV3-polygon-flashloan-bot) - This is a Flashloan Bot that's designed to work on the AAVE V3 Protocol and Polygon Network.
 - [coinos/coinos-classic](https://github.com/coinos/coinos-classic) - A bitcoin wallet app
 - [akash-network/awesome-akash](https://github.com/akash-network/awesome-akash) - Awesome List of Akash Deployment Examples
-- [Reya-Labs-Backup/voltz-core](https://github.com/Reya-Labs-Backup/voltz-core) - Core smart contracts of Voltz v1
+- [Voltz-Legacy/voltz-core](https://github.com/Voltz-Legacy/voltz-core) - Core smart contracts of Voltz v1
 - [safe-global/safe-cli](https://github.com/safe-global/safe-cli) - Command line utility for Safe
 - [amgxv/SpotifyAdBlocker-macOS](https://github.com/amgxv/SpotifyAdBlocker-macOS) - Block Spotify Ads on macOS
 - [feather-wallet/feather](https://github.com/feather-wallet/feather) - A free and open-source Monero desktop wallet.
