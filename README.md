@@ -242,7 +242,6 @@
 - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook
 - [kevinburke/ssh_config](https://github.com/kevinburke/ssh_config) - Go parser for ssh_config files
 - [xwjdsh/manssh](https://github.com/xwjdsh/manssh) - Manage your ssh alias configs easily.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [HACKERALERT/Picocrypt](https://github.com/HACKERALERT/Picocrypt) - A very small, very simple, yet very secure encryption tool.
 - [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
 - [containerd/zfs](https://github.com/containerd/zfs) - ZFS snapshotter plugin for containerd
@@ -261,6 +260,7 @@
 
 ## HTML 
 
+- [givanz/Vvveb](https://github.com/givanz/Vvveb) - Powerful and easy to use cms to build websites, blogs or ecommerce stores.
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [Mickinthemiddle/CLOAK](https://github.com/Mickinthemiddle/CLOAK) - Knowledge base on cybercriminal concealment techniques
 - [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 50+ formats. Available for Rust, Python, Ruby, 
@@ -300,6 +300,10 @@
 
 ## JavaScript 
 
+- [btw-so/btw](https://github.com/btw-so/btw) - Open source Medium alternative- set up your personal blog in minutes.
+- [GetmeUK/ContentTools](https://github.com/GetmeUK/ContentTools) - A JS library for building WYSIWYG editors for HTML content.
+- [dgmid/CSS3-ButtonBuilder](https://github.com/dgmid/CSS3-ButtonBuilder) - Mac App for generating HTML/CSS buttons
+- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [tetherto/pearpass-app-desktop](https://github.com/tetherto/pearpass-app-desktop) - PearPass is an open-source, privacy-first password manager with peer-to-peer syncing and end-to-end encryption.
 - [DavidAnson/markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2) - A fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
@@ -820,6 +824,7 @@
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins) - This is a crypto trading bot that scans the Binance Annoucements page for new coins, and places trades on Gateio
 - [balancer/balpy](https://github.com/balancer/balpy) - Tools for interacting with Balancer Protocol V2 in Python.
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [safe-global/safe-cli](https://github.com/safe-global/safe-cli) - Command line utility for Safe
@@ -1097,6 +1102,9 @@
 
 ## TypeScript 
 
+- [belastrittmatter/Framely](https://github.com/belastrittmatter/Framely) - Framely: The open-source, lightweight, multi-tenant drag-and-drop website editor for modern web applications, powered by Next.js
+- [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
+- [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [astudentinearth/darkwrite](https://github.com/astudentinearth/darkwrite) - The eye-candy note taking and to-do application for all desktops
 - [AhmedOsman101/commit-sage-cli](https://github.com/AhmedOsman101/commit-sage-cli) - Generates Conventional Commit messages with AI. Supports OpenAI, Ollama, and Gemini.
@@ -1324,6 +1332,7 @@
 
 ## Vue 
 
+- [NOXCIS/Wiregate](https://github.com/NOXCIS/Wiregate) - 🥷🏼  AmneziaWG + WireGuard VPN Server with Web UI + TOR + DnsCrypt + Pihole +AdGuard
 - [mds1/ETH-Dashboard](https://github.com/mds1/ETH-Dashboard) - Customizable Ethereum dashboard. Located at https://ethdashboard.com/
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [Destiner/ethereum-json-rpc](https://github.com/Destiner/ethereum-json-rpc) - An interactive reference of the Ethereum node API
