@@ -42,6 +42,7 @@
 - [PowerShell](#powershell)
 - [Prolog](#prolog)
 - [Python](#python)
+- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -163,6 +164,7 @@
 
 ## Go 
 
+- [internetarchive/Zeno](https://github.com/internetarchive/Zeno) - State-of-the-art web crawler 🔱
 - [tinkerbell/tinkerbell](https://github.com/tinkerbell/tinkerbell) - Bare metal provisioning engine, supporting network and ISO booting, BMC interactions, metadata service, and workflow engine.
 - [google/certificate-transparency-go](https://github.com/google/certificate-transparency-go) - Auditing for TLS certificates (Go code)
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
@@ -300,6 +302,13 @@
 
 ## JavaScript 
 
+- [medialab/hyphe](https://github.com/medialab/hyphe) - Websites crawler with built-in exploration and control web interface
+- [internetarchive/wayback-machine-webextension](https://github.com/internetarchive/wayback-machine-webextension) - A web browser extension for Chrome, Firefox, Edge, and Safari 14.
+- [daftano/cookies.txt](https://github.com/daftano/cookies.txt) - Google Chrome extension that creates a cookie.txt file for use with wget
+- [hrdl-github/cookies-txt](https://github.com/hrdl-github/cookies-txt) - A Firefox add-on which exports all cookies to a Netscape HTTP Cookie File
+- [webrecorder/pywb](https://github.com/webrecorder/pywb) - Core Python Web Archiving Toolkit for replay and recording of web archives
+- [N0taN3rd/wail](https://github.com/N0taN3rd/wail) - :whale2: One-Click User Instigated Preservation
+- [machawk1/warcreate](https://github.com/machawk1/warcreate) - Chrome extension to "Create WARC files from any webpage"
 - [btw-so/btw](https://github.com/btw-so/btw) - Open source Medium alternative- set up your personal blog in minutes.
 - [GetmeUK/ContentTools](https://github.com/GetmeUK/ContentTools) - A JS library for building WYSIWYG editors for HTML content.
 - [dgmid/CSS3-ButtonBuilder](https://github.com/dgmid/CSS3-ButtonBuilder) - Mac App for generating HTML/CSS buttons
@@ -592,6 +601,19 @@
 
 ## Python 
 
+- [bellingcat/auto-archiver](https://github.com/bellingcat/auto-archiver) - Automatically archive links to videos, images, and social media content from Google Sheets (and more).
+- [gwu-libraries/sfm-twitter-harvester](https://github.com/gwu-libraries/sfm-twitter-harvester) - A harvester for twitter content as part of Social Feed Manager.
+- [gwu-libraries/sfm-ui](https://github.com/gwu-libraries/sfm-ui) - Social Feed Manager user interface application.
+- [recrm/ArchiveTools](https://github.com/recrm/ArchiveTools) - A collection of tools for archiving and analysing the internet.
+- [nextcord/nextcord](https://github.com/nextcord/nextcord) - A Python wrapper for the Discord API forked from discord.py
+- [webrecorder/warcit](https://github.com/webrecorder/warcit) - Convert Directories, Files and ZIP Files to Web Archives (WARC)
+- [webrecorder/warcio](https://github.com/webrecorder/warcio) - Streaming WARC/ARC library for fast web archive IO
+- [jsvine/waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.
+- [webrecorder/public-web-archives](https://github.com/webrecorder/public-web-archives) - A listing of world wide web archives, for humans and machines using Web Archive Manifest (WAM) yaml format
+- [ArchiveTeam/grab-site](https://github.com/ArchiveTeam/grab-site) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns
+- [peterk/warcworker](https://github.com/peterk/warcworker) - A dockerized, queued high fidelity web archiver based on Squidwarc
+- [internetarchive/warcprox](https://github.com/internetarchive/warcprox) - WARC writing MITM HTTP/S proxy
+- [webrecorder/authsign](https://github.com/webrecorder/authsign) - 
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [Blockmage/typed_sentinels](https://github.com/Blockmage/typed_sentinels) - Statically-typed sentinel objects with singleton qualities.
 - [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
@@ -840,6 +862,10 @@
 - [Inspiaaa/Python-File-Library](https://github.com/Inspiaaa/Python-File-Library) - Python File Library is a collection of methods and classes to make working with files easier
 - [quan-digital/Pryno](https://github.com/quan-digital/Pryno) - Autonomous bot + bitmex trading infrastructure + dashboard + telegram bot. 🦏🔥🚀🥇
 - [Torxed/archoffline](https://github.com/Torxed/archoffline) - Arch Linux Offline ISO
+
+## Roff 
+
+- [machawk1/wail](https://github.com/machawk1/wail) - :whale2: Web Archiving Integration Layer: One-Click User Instigated Preservation
 
 ## Ruby 
 
@@ -1103,6 +1129,7 @@
 
 ## TypeScript 
 
+- [webrecorder/wabac.js](https://github.com/webrecorder/wabac.js) - wabac.js - Web Archive Browsing Augmentation Client
 - [belastrittmatter/Framely](https://github.com/belastrittmatter/Framely) - Framely: The open-source, lightweight, multi-tenant drag-and-drop website editor for modern web applications, powered by Next.js
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
@@ -1151,7 +1178,7 @@
 - [iamnivekx/blockchain-notes](https://github.com/iamnivekx/blockchain-notes) - 
 - [gridaco/assistant](https://github.com/gridaco/assistant) - 🤖  Bring your Figma design & development pipeline to the next level - with design to code, in-design-content-management, component management, tools for faster design
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
-- [refly-ai/refly](https://github.com/refly-ai/refly) - Vibe Workflow Platform for Non-technical Creators.
+- [refly-ai/refly](https://github.com/refly-ai/refly) - Not just a repo — an open-source agent skills builder.
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
