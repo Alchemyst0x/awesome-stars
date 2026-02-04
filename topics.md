@@ -2263,6 +2263,7 @@
 
 ## others 
 
+- [TuringSoftware/CrystalFetch](https://github.com/TuringSoftware/CrystalFetch) - macOS UI for creating Windows installer ISO from UUPDump
 - [freelawproject/x-ray](https://github.com/freelawproject/x-ray) - A tool to detect whether a PDF has a bad redaction
 - [internetarchive/Zeno](https://github.com/internetarchive/Zeno) - State-of-the-art web crawler 🔱
 - [gwu-libraries/sfm-twitter-harvester](https://github.com/gwu-libraries/sfm-twitter-harvester) - A harvester for twitter content as part of Social Feed Manager.
