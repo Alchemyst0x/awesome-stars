@@ -264,7 +264,7 @@
 - [givanz/Vvveb](https://github.com/givanz/Vvveb) - Powerful and easy to use cms to build websites, blogs or ecommerce stores.
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [Mickinthemiddle/CLOAK](https://github.com/Mickinthemiddle/CLOAK) - Knowledge base on cybercriminal concealment techniques
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 50+ formats. Available for Rust, Python, Ruby, 
+- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 75+ formats. Available for Rust, Python, Ruby, 
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [Myzel394/amiopen.now](https://github.com/Myzel394/amiopen.now) - A terminal-aware website to check if your ports are open or if your ISP is blocking any outgoing ports
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
@@ -523,7 +523,6 @@
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
 - [blocksecteam/blocksec_academy](https://github.com/blocksecteam/blocksec_academy) - 
 - [0xDanielLopez/TweetFeed](https://github.com/0xDanielLopez/TweetFeed) - TweetFeed collects Indicators of Compromise (IOCs) shared by the infosec community at Twitter. Here you will find malicious URLs, domains, IPs, and SHA256/MD5 hashes.
-- [CodeXTF2/maldev-links](https://github.com/CodeXTF2/maldev-links) - My collection of malware dev links
 - [0xalpharush/awesome-MEV-resources](https://github.com/0xalpharush/awesome-MEV-resources) - Get up to speed on Maximum Extractable Value
 - [OffcierCia/Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) - Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.
 - [OffcierCia/support](https://github.com/OffcierCia/support) - SupportMe
@@ -791,6 +790,7 @@
 - [orakaro/rainbowstream](https://github.com/orakaro/rainbowstream) - A smart and nice Twitter client on terminal written in Python.
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [degatchi/discord_spybot](https://github.com/degatchi/discord_spybot) - a spy bot that joins discord servers and sends you the names & topic of new hidden channels that are created in real time.
+- [CodeXTF2/maldev-links](https://github.com/CodeXTF2/maldev-links) - My collection of malware dev links
 - [nerolation/ethereum-datafarm](https://github.com/nerolation/ethereum-datafarm) - Scrap blockchain data from the public API of Etherscan.io
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [brianleect/etherscan-labels](https://github.com/brianleect/etherscan-labels) - Full label data dump of top EVM chains in JSON/CSV.
