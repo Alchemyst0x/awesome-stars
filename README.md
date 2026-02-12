@@ -10,7 +10,6 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
-- [Cython](#cython)
 - [D](#d)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
@@ -135,10 +134,6 @@
 - [dhg/Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
 - [picturepan2/spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive and Modern CSS Framework
 - [daniruiz/flat-remix-css](https://github.com/daniruiz/flat-remix-css) - A lightweight CSS library that provides a set of predesigned elements useful for rapid web development. It follows a modern flat design using a colorful palette with some shadows, highlights, and grad
-
-## Cython 
-
-- [tarasko/picows](https://github.com/tarasko/picows) - Ultra-fast websocket client and server for asyncio
 
 ## D 
 
@@ -610,6 +605,7 @@
 
 ## Python 
 
+- [asmeurer/removestar](https://github.com/asmeurer/removestar) - Tool to automatically replace 'import *' in Python files with explicit imports
 - [RhetTbull/macos_mditem_metadata](https://github.com/RhetTbull/macos_mditem_metadata) - Access macOS Spotlight metadata on files from Python. Also includes JSON data for all common metadata keys.
 - [RhetTbull/osxmetadata](https://github.com/RhetTbull/osxmetadata) - Python package to read and write various MacOS extended attribute metadata such as tags/keywords and Finder comments from files. Includes CLI tool for reading/writing metadata.
 - [xattr/xattr](https://github.com/xattr/xattr) - Python wrapper for extended filesystem attributes
@@ -693,6 +689,7 @@
 - [labex-labs/open-source-labs](https://github.com/labex-labs/open-source-labs) - LabEx Open-Source Labs
 - [owasp-dep-scan/dep-scan](https://github.com/owasp-dep-scan/dep-scan) - OWASP dep-scan is a next-generation security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies. Both local repositories and container ima
 - [jina-ai/annlite](https://github.com/jina-ai/annlite) - ⚡ A fast embedded library for approximate nearest neighbor search
+- [tarasko/picows](https://github.com/tarasko/picows) - Ultra-fast websocket client and server for asyncio
 - [navytux/pygolang](https://github.com/navytux/pygolang) - Go-like features for Python and Cython. (mirror of https://lab.nexedi.com/kirr/pygolang)
 - [Synaptic724/threadfactory](https://github.com/Synaptic724/threadfactory) - ThreadFactory is a concurrency framework for Python 3.13+ (No-GIL). It provides custom Work future objects and thread-safe collections, laying the foundation for scalable parallel execution in modern 
 - [DavidVujic/python-polylith](https://github.com/DavidVujic/python-polylith) - Tooling support for the Polylith Architecture in Python.
