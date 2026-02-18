@@ -2304,6 +2304,7 @@
 
 ## others 
 
+- [macos-fuse-t/fuse-t](https://github.com/macos-fuse-t/fuse-t) - 
 - [xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier) - automatically verify your age on discord, twitch, kick, quora and more (k-id)
 - [asmeurer/removestar](https://github.com/asmeurer/removestar) - Tool to automatically replace 'import *' in Python files with explicit imports
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀
