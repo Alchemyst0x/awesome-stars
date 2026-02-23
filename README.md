@@ -93,6 +93,7 @@
 
 ## C# # 
 
+- [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Saves Discord chat logs to a file
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 - [dotnet/WatsonWebserver](https://github.com/dotnet/WatsonWebserver) - Watson is the fastest, easiest way to build scalable RESTful web servers and services in C#.
 - [jchristn/HttpServerLite](https://github.com/jchristn/HttpServerLite) - TCP-based user-space HTTP and HTTPS server, written in C#, with no dependency on http.sys.
@@ -269,7 +270,7 @@
 - [givanz/Vvveb](https://github.com/givanz/Vvveb) - Powerful and easy to use cms to build websites, blogs or ecommerce stores.
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [Mickinthemiddle/CLOAK](https://github.com/Mickinthemiddle/CLOAK) - Knowledge base on cybercriminal concealment techniques
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 75+ formats. Available for Rust, Python, Ruby, 
+- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 76+ formats. Available for Rust, Python, Ruby, 
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [Myzel394/amiopen.now](https://github.com/Myzel394/amiopen.now) - A terminal-aware website to check if your ports are open or if your ISP is blocking any outgoing ports
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
@@ -778,7 +779,7 @@
 - [neomutt/lsp-tree-sitter](https://github.com/neomutt/lsp-tree-sitter) - ⚙️ A library to create language servers
 - [JoranHonig/tree-sitter-solidity](https://github.com/JoranHonig/tree-sitter-solidity) - Solidity grammar for tree sitter
 - [yangxy/PASD](https://github.com/yangxy/PASD) - [ECCV2024] Pixel-Aware Stable Diffusion for Realistic Image Super-Resolution and Personalized Stylization
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and infra teams.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source AI platform for enterprise agents and automation.
 - [mpkocher/pydantic-cli](https://github.com/mpkocher/pydantic-cli) - Turn Pydantic defined Data Models into CLI Tools
 - [arkonger/python-oklch](https://github.com/arkonger/python-oklch) - A module for python implementing the OKLCH color space as described by Björn Ottosson, along with various tools for manipulating color objects.
 - [natankeddem/autopve](https://github.com/natankeddem/autopve) - Containerized GUI application which hosts answers for Proxmox automated installation.
@@ -1072,6 +1073,7 @@
 - [cloud-computer/cloud-computer](https://github.com/cloud-computer/cloud-computer) - ☁️ The Cloud Native Computer
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh) - 🗑️ Cleanup script for macOS (DEPRECATED)
+- [TrueBlocks/trueblocks-core](https://github.com/TrueBlocks/trueblocks-core) - The main repository for the TrueBlocks system
 - [safe-global/safe-infrastructure](https://github.com/safe-global/safe-infrastructure) - One `docker-compose.yml` file to rule them all
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [pretzelhands/jinx](https://github.com/pretzelhands/jinx) - ✨jinx - a magical nginx wrapper
@@ -1133,7 +1135,6 @@
 - [starkware-libs/starkex-contracts](https://github.com/starkware-libs/starkex-contracts) - 
 - [jakarmy/solidity-summary](https://github.com/jakarmy/solidity-summary) - A code summary of EatTheBlocks' tutorial on Solidity
 - [itsdevbear/solmate-merkle-drop](https://github.com/itsdevbear/solmate-merkle-drop) - ERC20 + ERC721 contracts that support a merkle tree drop
-- [TrueBlocks/trueblocks-core](https://github.com/TrueBlocks/trueblocks-core) - The main repository for the TrueBlocks system
 - [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts) - Collection of smart contracts deployable via thirdweb
 - [transmissions11/solmate](https://github.com/transmissions11/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
 - [Arachnid/solidity-stringutils](https://github.com/Arachnid/solidity-stringutils) - Basic string utilities for Solidity
