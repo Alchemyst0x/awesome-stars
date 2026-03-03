@@ -933,7 +933,7 @@
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
 - [daac-tools/find-simdoc](https://github.com/daac-tools/find-simdoc) - Finding all pairs of similar documents time- and memory-efficiently
 - [ravendevteam/alternet](https://github.com/ravendevteam/alternet) - A completely decentralized alternative to the current-day web.
-- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy server and data plane for agentic apps - centralizing orchestration, safety, observability, and smart LLM routing so you can ship agents faster.
+- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic.
 - [reportersunited/json-carver](https://github.com/reportersunited/json-carver) - Digital forensics tool that reads (carves) JSON strings from a dump. Think of it as a more accurate and faster replacement for the strings(1) utility.
 - [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 - [awolverp/cachebox](https://github.com/awolverp/cachebox) - The fastest memoizing and caching Python library written in Rust.
