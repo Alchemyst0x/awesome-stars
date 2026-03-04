@@ -167,6 +167,7 @@
 
 ## Go 
 
+- [slowmist/blockchain-threat-intelligence](https://github.com/slowmist/blockchain-threat-intelligence) - Blockchain Threat Intelligence Sharing Platform（区块链威胁情报共享平台）
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
