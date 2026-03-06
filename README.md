@@ -197,7 +197,7 @@
 - [brianshea2/addr.tools](https://github.com/brianshea2/addr.tools) - possibly useful tools for the Internet
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - CLI and AI-agent orchestration built like infrastructure should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Local-first CLI and AI-agent orchestration built like infrastructure should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster.
 - [nathanbrock/littlesnitch-country-blocklists](https://github.com/nathanbrock/littlesnitch-country-blocklists) - A collection of LittleSnitch rule sets to block outbound connections to a given country.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
@@ -1387,6 +1387,7 @@
 - [RevokeCash/revoke.cash](https://github.com/RevokeCash/revoke.cash) - ❌ Revoke or update your token approvals
 - [dip/cmdk](https://github.com/dip/cmdk) - Fast, unstyled command menu React component.
 - [sanvishal/wrighter](https://github.com/sanvishal/wrighter) - Wrighter - A Powerful Markdown Blogger & A Writing Companion | write the (w)right way
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippet manager for developers
 - [OpenZeppelin/openzeppelin-upgrades](https://github.com/OpenZeppelin/openzeppelin-upgrades) - Plugins for Hardhat and Foundry to deploy and manage upgradeable contracts on Ethereum.
 - [juliancwirko/nft-art-maker](https://github.com/juliancwirko/nft-art-maker) - NFT Art Maker - generates images and metadata files, packs them into IPFS CAR files, and uploads them using nft.storage. All from provided PNG layers.
 - [tatumio/tatum-kms](https://github.com/tatumio/tatum-kms) - Unbreakable secure KMS (key management system) integrated to Tatum blockchain infrastructure
@@ -1420,7 +1421,6 @@
 - [Destiner/ethereum-json-rpc](https://github.com/Destiner/ethereum-json-rpc) - An interactive reference of the Ethereum node API
 - [sandoche/CuratedStack-nocode-template](https://github.com/sandoche/CuratedStack-nocode-template) - 🧱 A template to create a CuratedStack without (or with) code
 - [merakiuilabs/hero-header-template](https://github.com/merakiuilabs/hero-header-template) - Agency Landing page Template Build with Tailwind CSS, vite, and vue 3, shapes with RTL Languages Support.
-- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippet manager for developers
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [coinos/coinos-classic](https://github.com/coinos/coinos-classic) - A bitcoin wallet app
 
