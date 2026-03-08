@@ -1046,7 +1046,7 @@
 - [vargasjona/fastapi-alembic-sqlmodel-async](https://github.com/vargasjona/fastapi-alembic-sqlmodel-async) - This is a project template which uses FastAPI, Pydantic 2.0, Alembic and async SQLModel as ORM. It shows a complete async CRUD using authentication and role base access control.
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 - [bellingcat/auto-archiver](https://github.com/bellingcat/auto-archiver) - Automatically archive links to videos, images, and social media content from Google Sheets (and more).
 - [NOXCIS/Wiregate](https://github.com/NOXCIS/Wiregate) - 🥷🏼  AmneziaWG + WireGuard VPN Server with Web UI + TOR + DnsCrypt + Pihole +AdGuard
@@ -1351,7 +1351,7 @@
 ## go 
 
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
@@ -1512,7 +1512,6 @@
 - [kjd/idna](https://github.com/kjd/idna) - Internationalized Domain Names for Python (IDNA 2008 and UTS #46)
 - [omnilib/aiomultiprocess](https://github.com/omnilib/aiomultiprocess) - Take a modern Python codebase to the next level of performance.
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
-- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [konstruktoid/hardening](https://github.com/konstruktoid/hardening) - Hardening Ubuntu. Systemd edition.
@@ -1988,7 +1987,7 @@
 ## markdown 
 
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [DavidAnson/markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2) - A fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
 - [harehare/mq](https://github.com/harehare/mq) - jq-like command-line tool for markdown processing
@@ -3138,7 +3137,7 @@
 
 ## react 
 
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [kholmogorov27/chevron](https://github.com/kholmogorov27/chevron) - Powerful and highly functional startpage integrated with chatGPT and hidden under the super minimalistic and animated design (static/hosted/github pages)
 - [SwayamJain8/Trinity-Build](https://github.com/SwayamJain8/Trinity-Build) - ⭐ Trinity Build is an AI-powered platform for effortlessly creating stunning, full-stack web applications with intelligent automation, real-time AI chat, and seamless deployment.
 - [belastrittmatter/Framely](https://github.com/belastrittmatter/Framely) - Framely: The open-source, lightweight, multi-tenant drag-and-drop website editor for modern web applications, powered by Next.js
@@ -3426,7 +3425,7 @@
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [memospot/memospot](https://github.com/memospot/memospot) - Memospot is a self-contained desktop version of Memos -a privacy-first, lightweight note-taking service.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [givanz/Vvveb](https://github.com/givanz/Vvveb) - Powerful and easy to use cms to build websites, blogs or ecommerce stores.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
@@ -3554,7 +3553,7 @@
 
 ## sqlite 
 
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
