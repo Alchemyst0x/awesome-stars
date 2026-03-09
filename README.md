@@ -942,7 +942,7 @@
 - [yulesa/glaciers](https://github.com/yulesa/glaciers) - 
 - [lyric-project/lyric-runtime](https://github.com/lyric-project/lyric-runtime) - Lyric: A Rust-powered secure runtime for AI-Agent.
 - [Vasu014/loregrep](https://github.com/Vasu014/loregrep) - Context management server, for coding agents
-- [pydsigner/python-lightningcss](https://github.com/pydsigner/python-lightningcss) - Opinionated Python bindings for lightningcss.
+- [pydsigner/python-lightningcss](https://github.com/pydsigner/python-lightningcss) - Opinionated Python bindings for lightningcss
 - [simular-fi/simular](https://github.com/simular-fi/simular) - A Python smart-contract API with a blazingly fast (embedded) Ethereum Virtual Machine (EVM)
 - [gorules/zen](https://github.com/gorules/zen) - Open-source Business Rules Engine for your Rust, NodeJS, Python, Go, Java, C#, Kotlin (JVM), Kotlin (Android) and Swift (iOS) applications.
 - [radumarias/zeroize-python](https://github.com/radumarias/zeroize-python) - Securely clear secrets from memory. Built on stable Rust primitives which guarantee memory is zeroed using an operation will not be 'optimized away' by the compiler
@@ -1179,6 +1179,7 @@
 
 ## TypeScript 
 
+- [cryptoalgebra/AlgebraV1](https://github.com/cryptoalgebra/AlgebraV1) - The first version of Algebra protocol - innovative DEX with concetrated liquidity
 - [xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier) - automatically verify your age on discord, twitch, kick, quora and more (k-id)
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀
 - [vladmandic/pigallery](https://github.com/vladmandic/pigallery) - PiGallery: AI-powered Self-hosted Secure Multi-user Image Gallery and Detailed Image analysis using Machine Learning, EXIF Parsing and Geo Tagging
@@ -1249,7 +1250,7 @@
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
 - [ant-design/x](https://github.com/ant-design/x) - Craft AI-driven interface effortlessly🤖
 - [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat💬🚀
-- [internet-development/www-server-mono](https://github.com/internet-development/www-server-mono) - Server Mono is a font released by the Internet Development Studio Company. SIL Open Font License 1.1
+- [internet-development/www-server-mono](https://github.com/internet-development/www-server-mono) - Server Mono is a typeface inspired by typewriters, Apple's San Francisco Mono, ASCII art, command-line interfaces, and programming tools.
 - [anomalyco/openauth](https://github.com/anomalyco/openauth) - ▦ Universal, standards-based auth provider.
 - [namehash/namekit](https://github.com/namehash/namekit) - Easily integrate rich ENS user journeys into your wallet, app, or game.
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
