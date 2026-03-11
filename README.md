@@ -1102,7 +1102,6 @@
 - [zfsonlinux/zfs-auto-snapshot](https://github.com/zfsonlinux/zfs-auto-snapshot) - ZFS Automatic Snapshot Service for Linux
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-- [reedrw/dotfiles](https://github.com/reedrw/dotfiles) - my dotfiles
 - [aurutils/aurutils](https://github.com/aurutils/aurutils) - Helper tools for the AUR.
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
 - [archcraft-os/archcraft-xmonad](https://github.com/archcraft-os/archcraft-xmonad) - // Configuration : Xmonad
