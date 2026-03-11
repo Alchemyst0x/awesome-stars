@@ -2291,7 +2291,6 @@
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
 - [voideditor/void](https://github.com/voideditor/void) - 
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
 - [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!
 - [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - The first "code-first" agent framework for seamlessly planning and executing data analytics tasks.
@@ -2762,7 +2761,6 @@
 - [Blockstream/gdk](https://github.com/Blockstream/gdk) - Blockstream Green Development Kit
 - [LN-Zap/zap-desktop](https://github.com/LN-Zap/zap-desktop) - Zap Wallet - Cross platform Lightning Network wallet focused on user experience and ease of use ⚡️
 - [IntersectMBO/essential-cardano](https://github.com/IntersectMBO/essential-cardano) - Repository for the Essential Cardano list
-- [reedrw/dotfiles](https://github.com/reedrw/dotfiles) - my dotfiles
 - [cassava/repoctl](https://github.com/cassava/repoctl) - Make it easy to manage your local Arch Linux repository.
 - [nomasters/killcord](https://github.com/nomasters/killcord) - a censorship resistant deadman's switch
 - [archcraft-os/archcraft-xmonad](https://github.com/archcraft-os/archcraft-xmonad) - // Configuration : Xmonad
