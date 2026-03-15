@@ -662,6 +662,7 @@
 - [crytic/pyevmasm](https://github.com/crytic/pyevmasm) - Ethereum Virtual Machine (EVM) disassembler and assembler
 - [dotpy/py-pf](https://github.com/dotpy/py-pf) - Python module for managing OpenBSD's Packet Filter
 - [n0fate/chainbreaker](https://github.com/n0fate/chainbreaker) - Mac OS X Keychain Forensic Tool
+- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [browser-use/macOS-use](https://github.com/browser-use/macOS-use) - Make Mac apps accessible for AI agents
 - [browser-use/template-library](https://github.com/browser-use/template-library) - Template library for browser-use CLI
@@ -927,11 +928,11 @@
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [vpn-kill-switch/killswitch](https://github.com/vpn-kill-switch/killswitch) - VPN kill switch for macOS
 - [razorblade23/PyCrucible](https://github.com/razorblade23/PyCrucible) - A robust, cross-platform builder and launcher for Python apps using UV. Built with Rust.
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 76+ formats. Available for Rust, Python, Ruby, 
+- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 88+ formats. Available for Rust, Python, Ruby, 
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [nymtech/nym-vpn-client](https://github.com/nymtech/nym-vpn-client) - Cross-platform open source VPN client built in Rust, with mixnet anonymity and WireGuard speed. Protects metadata, not just IP addresses. Zero-knowledge payments for unlinkable online activities.
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource local-first sandboxes for ai agents
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource secure local-first sandboxes for ai agents
 - [daac-tools/find-simdoc](https://github.com/daac-tools/find-simdoc) - Finding all pairs of similar documents time- and memory-efficiently
 - [ravendevteam/alternet](https://github.com/ravendevteam/alternet) - A completely decentralized alternative to the current-day web.
 - [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic.
@@ -1194,7 +1195,6 @@
 - [LayerZero-Labs/devtools](https://github.com/LayerZero-Labs/devtools) - LayerZero Endpoint V2 Examples and Developer Tooling
 - [LayerZero-Labs/gasolina-gcp](https://github.com/LayerZero-Labs/gasolina-gcp) - 
 - [blockscout/chainscout](https://github.com/blockscout/chainscout) - 
-- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [pdfme/pdfme](https://github.com/pdfme/pdfme) - Open-source PDF generation library built with TypeScript and React. Features a WYSIWYG template designer, PDF viewer, and powerful generation capabilities. Create custom PDFs effortlessly in both brow
 - [linagora/ToM-server](https://github.com/linagora/ToM-server) - 
 - [deepnote/deepnote](https://github.com/deepnote/deepnote) - Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote c
