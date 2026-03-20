@@ -197,7 +197,7 @@
 - [brianshea2/addr.tools](https://github.com/brianshea2/addr.tools) - possibly useful tools for the Internet
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A local-first workflow engine built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A local-first workflow engine built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster. Your Workflow Operator h
 - [nathanbrock/littlesnitch-country-blocklists](https://github.com/nathanbrock/littlesnitch-country-blocklists) - A collection of LittleSnitch rule sets to block outbound connections to a given country.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
@@ -289,6 +289,7 @@
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [dawsbot/eth-labels](https://github.com/dawsbot/eth-labels) - 📃 A public dataset of crypto addresses labeled
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
+- [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [ChainAgnostic/CAIPs](https://github.com/ChainAgnostic/CAIPs) - Chain Agnostic Improvement Proposals
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
@@ -790,7 +791,7 @@
 - [neomutt/lsp-tree-sitter](https://github.com/neomutt/lsp-tree-sitter) - ⚙️ A library to create language servers
 - [JoranHonig/tree-sitter-solidity](https://github.com/JoranHonig/tree-sitter-solidity) - Solidity grammar for tree sitter
 - [yangxy/PASD](https://github.com/yangxy/PASD) - [ECCV2024] Pixel-Aware Stable Diffusion for Realistic Image Super-Resolution and Personalized Stylization
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - AI-native automation platform for security teams. Purpose-built for agents. Open source for builders.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The AI automation platform built for security teams and agents.
 - [mpkocher/pydantic-cli](https://github.com/mpkocher/pydantic-cli) - Turn Pydantic defined Data Models into CLI Tools
 - [arkonger/python-oklch](https://github.com/arkonger/python-oklch) - A module for python implementing the OKLCH color space as described by Björn Ottosson, along with various tools for manipulating color objects.
 - [natankeddem/autopve](https://github.com/natankeddem/autopve) - Containerized GUI application which hosts answers for Proxmox automated installation.
@@ -1154,6 +1155,7 @@
 - [pedrobergamini/flashloaner-contract](https://github.com/pedrobergamini/flashloaner-contract) - This repo introduces a simple example of how to arbitrage trade on-chain using flash loans.
 - [manifoldxyz/creator-core-solidity](https://github.com/manifoldxyz/creator-core-solidity) - 
 - [simuty/aaveV3-polygon-flashloan-bot](https://github.com/simuty/aaveV3-polygon-flashloan-bot) - This is a Flashloan Bot that's designed to work on the AAVE V3 Protocol and Polygon Network.
+- [wighawag/template-ethereum-contracts](https://github.com/wighawag/template-ethereum-contracts) - Template to develop ethereum smart contracts
 - [nsinthunont/nft-royalties](https://github.com/nsinthunont/nft-royalties) - Smart contract template to support NFTs whereby the artist gets a royalty from all future transactions of the NFT
 - [nmushegian/wand](https://github.com/nmushegian/wand) - DSProxy 2.0
 
@@ -1246,7 +1248,7 @@
 - [skowtcc/site](https://github.com/skowtcc/site) - ⚙ The frontend of https://skowt.cc/ —  built with NextJS, TailwindCSS & shadcn/ui
 - [reservoirprotocol/indexer-public](https://github.com/reservoirprotocol/indexer-public) - Reservoir Protocol indexer
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/oss
 - [ant-design/x](https://github.com/ant-design/x) - Craft AI-driven interface effortlessly🤖
 - [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat💬🚀
 - [internet-development/www-server-mono](https://github.com/internet-development/www-server-mono) - Server Mono is a typeface inspired by typewriters, Apple's San Francisco Mono, ASCII art, command-line interfaces, and programming tools.
@@ -1305,7 +1307,6 @@
 - [system-ui/theme-ui](https://github.com/system-ui/theme-ui) - Build consistent, themeable React apps based on constraint-based design principles
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [Authory/twitter-backup-api](https://github.com/Authory/twitter-backup-api) - Documentation & Examples on how to use Authory's API
-- [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [panaverse/learn-nextjs](https://github.com/panaverse/learn-nextjs) - Learn Modern Full Stack Web 2 and Web 3 Development using Typescript, Next.js 13 Apps, Tailwind CSS, Shadcn UI, Neon, Drizzle ORM, and Sanity
 - [auth0/nextjs-auth0](https://github.com/auth0/nextjs-auth0) - Next.js SDK for signing in with Auth0
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
@@ -1363,7 +1364,7 @@
 - [epilande/gatsby-theme-firebase](https://github.com/epilande/gatsby-theme-firebase) - 🔥 A Gatsby Theme for adding Firebase to your application.
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Convert any website to editable Figma designs
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Build AI Agents the easy way. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀  AI Workflow toolkit
+- [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents that run your operations. Model agnostic.
 - [open5e/open5e](https://github.com/open5e/open5e) - An SRD and open-source material reference site for 5th edition D&D
 - [peetzweg/notar](https://github.com/peetzweg/notar) - interactive CLI to read and call contracts deployed to EVM chains - bring your own ABIs.
 - [peetzweg/vscode-crypto-address-lens](https://github.com/peetzweg/vscode-crypto-address-lens) - VSCode extension to inspect and validate crypto address inside your favourite editor.
@@ -1401,7 +1402,6 @@
 - [balancer/balancer-subgraph-v2](https://github.com/balancer/balancer-subgraph-v2) - Subgraph (Graph Protocol) data layer for Balancer v2 vault, swaps, txs, users
 - [safe-fndn/safe-smart-account](https://github.com/safe-fndn/safe-smart-account) - Safe allows secure management of blockchain assets.
 - [Voltz-Legacy/voltz-core](https://github.com/Voltz-Legacy/voltz-core) - Core smart contracts of Voltz v1
-- [wighawag/template-ethereum-contracts](https://github.com/wighawag/template-ethereum-contracts) - Template to develop ethereum smart contracts
 - [0xProject/protocol](https://github.com/0xProject/protocol) - 
 - [xyfir/ptorx](https://github.com/xyfir/ptorx) - 📩🛡 Email privacy. Anonymously send and receive with alias forwarding. (Abandoned)
 - [flashbots/flashbots-docs](https://github.com/flashbots/flashbots-docs) - 
