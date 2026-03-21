@@ -924,7 +924,7 @@
 - [cloudflare/azul](https://github.com/cloudflare/azul) - Tiled transparency logs libraries and applications
 - [cdump/evmole](https://github.com/cdump/evmole) - Extracts function selectors, arguments, state mutability and storage layout from EVM bytecode, even for unverified contracts
 - [shindan-io/scnr](https://github.com/shindan-io/scnr) - deep file scanner tool
-- [harehare/mq](https://github.com/harehare/mq) - jq-like command-line tool for markdown processing
+- [harehare/mq](https://github.com/harehare/mq) - A jq-like Markdown query language for command-line processing
 - [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, DuckDB, Microsoft SQL Server]
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [vpn-kill-switch/killswitch](https://github.com/vpn-kill-switch/killswitch) - VPN kill switch for macOS
