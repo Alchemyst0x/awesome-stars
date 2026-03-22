@@ -422,7 +422,7 @@
 - [ipfs-examples/js-ipfs-examples](https://github.com/ipfs-examples/js-ipfs-examples) - Collection of js-ipfs examples
 - [deoostfrees/Parvus](https://github.com/deoostfrees/Parvus) - An open source, dependency free image lightbox with the goal of being accessible.
 - [smartcontractkit/hardhat-starter-kit](https://github.com/smartcontractkit/hardhat-starter-kit) - A repo for boilerplate code for testing, deploying, and shipping chainlink solidity code.
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [ethereum-alarm-clock/ethereum-alarm-clock](https://github.com/ethereum-alarm-clock/ethereum-alarm-clock) - Schedule transactions for the future
 - [chiru-labs/ERC721A](https://github.com/chiru-labs/ERC721A) - https://ERC721A.org
