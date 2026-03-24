@@ -2672,7 +2672,7 @@
 - [0xDareDevil/Celsius](https://github.com/0xDareDevil/Celsius) - 
 - [lucid-eleven/flashside](https://github.com/lucid-eleven/flashside) - Long-tail MEV contracts to claim Otherside land NFTs
 - [AudiusProject/web3-provider-proxy](https://github.com/AudiusProject/web3-provider-proxy) - 🌍 Proxying and caching web3 requests with Cloudflare workers
-- [tigrisdata-archive/tigris](https://github.com/tigrisdata-archive/tigris) - Tigris is a globally distributed, multi-cloud object storage service with built-in support for the S3 API. It uses Dynamic Data Placement and Access-Based Rebalancing to deliver low-latency access wor
+- [tigrisdata-archive/tigrisdb](https://github.com/tigrisdata-archive/tigrisdb) - Tigris is a globally distributed, multi-cloud object storage service with built-in support for the S3 API. It uses Dynamic Data Placement and Access-Based Rebalancing to deliver low-latency access wor
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup) - Git-integrated backup tool for macOS and Linux devs.
 - [realstrings/opensea-like-bot](https://github.com/realstrings/opensea-like-bot) - Opensea like bot made in requests and Web3.py
