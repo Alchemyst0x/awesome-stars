@@ -2724,7 +2724,7 @@
 - [multis/gnosis-safe-subgraph](https://github.com/multis/gnosis-safe-subgraph) - 
 - [gnosis/reth-util](https://github.com/gnosis/reth-util) - Small utilities for Ethereum blockchain client.
 - [gnosis/reth](https://github.com/gnosis/reth) - Mono repo for reth ethereum client
-- [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries and other code
+- [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [CyberPunkMetalHead/backtesting-for-cryptocurrency-trading](https://github.com/CyberPunkMetalHead/backtesting-for-cryptocurrency-trading) - This is a simple backtesting framework to help you test your crypto currency trading. It includes a way to download and store historical crypto data and to execute a trading strategy.
 - [CyberPunkMetalHead/bitcoin-bot-buy-if-elon-tweets](https://github.com/CyberPunkMetalHead/bitcoin-bot-buy-if-elon-tweets) - This is a bitcoin bot that will automatically buy bitcoin if Elon Musk Tweets about it. It is a configurable crypto trading bot that listens to Technoking Musk to express his opinions on Bitcoin and b
