@@ -421,7 +421,6 @@
 - [ipfs-examples/js-ipfs-examples](https://github.com/ipfs-examples/js-ipfs-examples) - Collection of js-ipfs examples
 - [deoostfrees/Parvus](https://github.com/deoostfrees/Parvus) - An open source, dependency free image lightbox with the goal of being accessible.
 - [smartcontractkit/hardhat-starter-kit](https://github.com/smartcontractkit/hardhat-starter-kit) - A repo for boilerplate code for testing, deploying, and shipping chainlink solidity code.
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [ethereum-alarm-clock/ethereum-alarm-clock](https://github.com/ethereum-alarm-clock/ethereum-alarm-clock) - Schedule transactions for the future
 - [chiru-labs/ERC721A](https://github.com/chiru-labs/ERC721A) - https://ERC721A.org
@@ -1173,6 +1172,7 @@
 - [Planetable/Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites on your Mac
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
 - [halo/LinkLiar](https://github.com/halo/LinkLiar) - :link: Link-Layer MAC spoofing GUI for macOS
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
 ## Text 
 
@@ -1395,7 +1395,7 @@
 - [ipfs/js-datastore-s3](https://github.com/ipfs/js-datastore-s3) - Datastore implementation with S3 backend
 - [guildxyz/guild.xyz](https://github.com/guildxyz/guild.xyz) - A tool for token-curated communities.
 - [multis/gnosis-safe-subgraph](https://github.com/multis/gnosis-safe-subgraph) - 
-- [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries and other code
+- [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [ceramicnetwork/js-ceramic](https://github.com/ceramicnetwork/js-ceramic) - Typescript implementation of the Ceramic protocol
 - [sunflower-land/sunflower-land](https://github.com/sunflower-land/sunflower-land) - 
