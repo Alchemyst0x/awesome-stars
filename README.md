@@ -1364,7 +1364,7 @@
 - [epilande/gatsby-theme-firebase](https://github.com/epilande/gatsby-theme-firebase) - 🔥 A Gatsby Theme for adding Firebase to your application.
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Convert any website to editable Figma designs
-- [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents that run your operations. Model agnostic.
+- [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents, automations and apps that run your operations. Model agnostic.
 - [open5e/open5e](https://github.com/open5e/open5e) - An SRD and open-source material reference site for 5th edition D&D
 - [peetzweg/notar](https://github.com/peetzweg/notar) - interactive CLI to read and call contracts deployed to EVM chains - bring your own ABIs.
 - [peetzweg/vscode-crypto-address-lens](https://github.com/peetzweg/vscode-crypto-address-lens) - VSCode extension to inspect and validate crypto address inside your favourite editor.
