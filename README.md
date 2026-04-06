@@ -213,7 +213,7 @@
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [pluveto/upgit](https://github.com/pluveto/upgit) - Another upload hub that supports clipboard. It works well with Typora, Snipaste, VSCode.
 - [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal
-- [blacknon/lssh](https://github.com/blacknon/lssh) - lssh: A list-based SSH/SCP/SFTP client supporting single and parallel connections, local bashrc usage on remote machines, and advanced proxying. Written in Go.
+- [blacknon/lssh](https://github.com/blacknon/lssh) - TUI SSH/SCP/SFTP client with list-based host selection, parallel sessions, multi-hop proxying, and port forwarding. Written in Go.
 - [rgburke/grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
@@ -671,7 +671,7 @@
 - [browser-use/macOS-use](https://github.com/browser-use/macOS-use) - Make Mac apps accessible for AI agents
 - [browser-use/template-library](https://github.com/browser-use/template-library) - Template library for browser-use CLI
 - [rakshithShetty/A4NT-author-masking](https://github.com/rakshithShetty/A4NT-author-masking) - Repository for author masking
-- [jxmorris12/language_tool_python](https://github.com/jxmorris12/language_tool_python) - a free python grammar checker 📝✅
+- [jxmorris12/language_tool_python](https://github.com/jxmorris12/language_tool_python) - a free, non-AI python grammar checker 📝✅
 - [olivierkes/manuskript](https://github.com/olivierkes/manuskript) - A open-source tool for writers
 - [GrammAcc/grammlog](https://github.com/GrammAcc/grammlog) - GrammAcc's Structured Logging for Python
 - [Aeternalis-Ingenium/FastAPI-Backend-Template](https://github.com/Aeternalis-Ingenium/FastAPI-Backend-Template) - A backend project template with FastAPI, PostgreSQL with asynchronous SQLAlchemy 2.0, Alembic for asynchronous database migration, and Docker.
