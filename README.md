@@ -213,7 +213,7 @@
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [pluveto/upgit](https://github.com/pluveto/upgit) - Another upload hub that supports clipboard. It works well with Typora, Snipaste, VSCode.
 - [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal
-- [blacknon/lssh](https://github.com/blacknon/lssh) - TUI SSH/SCP/SFTP client with list-based host selection, parallel sessions, multi-hop proxying, and port forwarding. Written in Go.
+- [blacknon/lssh](https://github.com/blacknon/lssh) - TUI SSH client Suite: list-based  host selection, parallel sessions, multi-hop proxying, and port forwarding. SSH/SCP/SFTP etc. Written in Go.
 - [rgburke/grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
