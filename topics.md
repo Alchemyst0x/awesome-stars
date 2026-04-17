@@ -103,6 +103,7 @@
 - [google-cloud](#google-cloud)
 - [graphql](#graphql)
 - [gui](#gui)
+- [hack](#hack)
 - [hackathon](#hackathon)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
@@ -1467,6 +1468,10 @@
 - [MohamedSherifNoureldin/PCtrl](https://github.com/MohamedSherifNoureldin/PCtrl) - Rust based Linux Process Manager with both a GUI and a TUI
 - [halo/LinkLiar](https://github.com/halo/LinkLiar) - :link: Link-Layer MAC spoofing GUI for macOS
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
+
+## hack 
+
+- [moonstream-to/api](https://github.com/moonstream-to/api) - Building blocks for your blockchain economy
 
 ## hackathon 
 
