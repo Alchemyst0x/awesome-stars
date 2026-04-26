@@ -1195,7 +1195,7 @@
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
-- [astudentinearth/darkwrite](https://github.com/astudentinearth/darkwrite) - The eye-candy note taking and to-do application for all desktops
+- [astudentinearth/darkwrite](https://github.com/astudentinearth/darkwrite) - Notes as it should have been. Built for people who just want to write, without nonsense.
 - [AhmedOsman101/commit-sage-cli](https://github.com/AhmedOsman101/commit-sage-cli) - Generates Conventional Commit messages with AI. Supports OpenAI, Ollama, and Gemini.
 - [LayerZero-Labs/gasolina-aws](https://github.com/LayerZero-Labs/gasolina-aws) - This repository provides Infrastructure-As-Code (IAC) for installing Gasolina on AWS via CDK.
 - [LayerZero-Labs/devtools](https://github.com/LayerZero-Labs/devtools) - LayerZero Endpoint V2 Examples and Developer Tooling
