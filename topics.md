@@ -747,6 +747,7 @@
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 - [turbot/powerpipe](https://github.com/turbot/powerpipe) - Powerpipe: Dashboards for DevOps. Visualize cloud configurations. Assess security posture against a massive library of benchmarks. Build custom dashboards with code.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
+- [blacknon/lssh](https://github.com/blacknon/lssh) - A terminal-native remote access suite for SSH, cloud inventories, provider-backed connectors, parallel commands, mux workspaces, file transfer, and monitoring.
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [dotnet/WatsonWebserver](https://github.com/dotnet/WatsonWebserver) - Watson is the fastest, easiest way to build scalable RESTful web servers and services in C#.
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
@@ -1026,7 +1027,7 @@
 - [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hosted workflow engine for scripts, cron jobs, containers, and ops automation. YAML workflows, retries, logs, approvals, and optional distributed workers.
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
-- [blacknon/lssh](https://github.com/blacknon/lssh) - TUI SSH client Suite: list-based  host selection, parallel sessions, multi-hop proxying, and port forwarding. SSH/SCP/SFTP etc. Written in Go.
+- [blacknon/lssh](https://github.com/blacknon/lssh) - A terminal-native remote access suite for SSH, cloud inventories, provider-backed connectors, parallel commands, mux workspaces, file transfer, and monitoring.
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
 - [httpdss/structkit](https://github.com/httpdss/structkit) - StructKit simplifies project organization by creating consistent file and folder structures tailored to your specific needs. Enhance productivity and maintain uniformity across all your projects with 
 - [eoli3n/arch-config](https://github.com/eoli3n/arch-config) - Scripts and Ansible playbook to setup Arch Linux on ZFS.
@@ -1379,7 +1380,6 @@
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-- [blacknon/lssh](https://github.com/blacknon/lssh) - TUI SSH client Suite: list-based  host selection, parallel sessions, multi-hop proxying, and port forwarding. SSH/SCP/SFTP etc. Written in Go.
 - [rgburke/grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
 - [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr) - Simplifies IPv4/IPv6 CIDR network prefix management with counting, overlap checking, explanation, and subdivision.
@@ -1416,6 +1416,7 @@
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [py2many/py2many](https://github.com/py2many/py2many) - Transpiler of Python to many other languages
+- [blacknon/lssh](https://github.com/blacknon/lssh) - A terminal-native remote access suite for SSH, cloud inventories, provider-backed connectors, parallel commands, mux workspaces, file transfer, and monitoring.
 - [rgburke/grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
 - [moncho/dry](https://github.com/moncho/dry) - dry - A Docker manager for the terminal @
@@ -2481,7 +2482,6 @@
 - [francisconeves97/jxscout-vscode](https://github.com/francisconeves97/jxscout-vscode) - 
 - [francisconeves97/jxscout](https://github.com/francisconeves97/jxscout) - jxscout superpowers JavaScript analysis for security researchers
 - [fkie-cad/entropython](https://github.com/fkie-cad/entropython) - Efficient calculation of shannon byte entropy based on rust library.
-- [DoingFedTime/PrivacyPlease](https://github.com/DoingFedTime/PrivacyPlease) - Swaps non-privacy respecting sites with open source privacy frontends.
 - [getsentry/auto-type-annotate](https://github.com/getsentry/auto-type-annotate) - automatically add annotations to untyped python code!
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [reservoirprotocol/indexer-public](https://github.com/reservoirprotocol/indexer-public) - Reservoir Protocol indexer
@@ -3678,6 +3678,7 @@
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [sorairolake/qrtool](https://github.com/sorairolake/qrtool) - A command-line utility for encoding and decoding QR code
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
+- [blacknon/lssh](https://github.com/blacknon/lssh) - A terminal-native remote access suite for SSH, cloud inventories, provider-backed connectors, parallel commands, mux workspaces, file transfer, and monitoring.
 - [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
@@ -3727,7 +3728,7 @@
 - [MohamedSherifNoureldin/PCtrl](https://github.com/MohamedSherifNoureldin/PCtrl) - Rust based Linux Process Manager with both a GUI and a TUI
 - [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
 - [vladkens/macmon](https://github.com/vladkens/macmon) - 🦀🌡️ Real-time system monitor for Apple Silicon Macs (M1–M5). No sudo. TUI, JSON/Prometheus metrics server, and Rust library.
-- [blacknon/lssh](https://github.com/blacknon/lssh) - TUI SSH client Suite: list-based  host selection, parallel sessions, multi-hop proxying, and port forwarding. SSH/SCP/SFTP etc. Written in Go.
+- [blacknon/lssh](https://github.com/blacknon/lssh) - A terminal-native remote access suite for SSH, cloud inventories, provider-backed connectors, parallel commands, mux workspaces, file transfer, and monitoring.
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [orhun/flawz](https://github.com/orhun/flawz) - A Terminal UI for browsing security vulnerabilities (CVEs)
