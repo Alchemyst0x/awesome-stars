@@ -755,7 +755,7 @@
 - [byt3bl33d3r/WitnessMe](https://github.com/byt3bl33d3r/WitnessMe) - Web Inventory tool, takes screenshots of webpages using Pyppeteer (headless Chrome/Chromium) and provides some extra bells & whistles to make life easier.
 - [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
-- [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
+- [flet-dev/flet](https://github.com/flet-dev/flet) - Build realtime web, mobile and desktop apps in Python only. No frontend experience required.
 - [x42005e1f/aiologic](https://github.com/x42005e1f/aiologic) - GIL-powered* locking library for Python
 - [rly0nheart/searchcode-python](https://github.com/rly0nheart/searchcode-python) - Python SDK and CLI utility for searchcode.com.
 - [Instagram/LibCST](https://github.com/Instagram/LibCST) - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree
