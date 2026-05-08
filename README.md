@@ -248,7 +248,6 @@
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [greenboxal/dns-heaven](https://github.com/greenboxal/dns-heaven) - Fixes stupid macOS DNS stack (/etc/resolv.conf)
-- [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [RTradeLtd/s3x](https://github.com/RTradeLtd/s3x) - s3x is a minio gateway providing an S3 API powered by TemporalX that uses IPFS as the data storage layer. It lets you turn any S3 application into an IPFS application with no change in application des
@@ -1010,6 +1009,7 @@
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
 - [Limeth/ethaddrgen](https://github.com/Limeth/ethaddrgen) - Custom Ethereum vanity address generator made in Rust
 - [bcsongor/tinyvanityeth](https://github.com/bcsongor/tinyvanityeth) - 📇  Tiny and fast command line tool to find vanity Ethereum addresses.
 - [hifi-finance/pawn-bots-tracker](https://github.com/hifi-finance/pawn-bots-tracker) - A bot that tweets out daily stats about the Pawn Bots NFT collection.
