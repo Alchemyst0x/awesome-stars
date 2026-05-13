@@ -350,6 +350,7 @@
 - [microsoft/vscode-ripgrep](https://github.com/microsoft/vscode-ripgrep) - For consuming the ripgrep binary from microsoft/ripgrep-prebuilt in a Node project
 - [ota-meshi/extract-vscode-schemas](https://github.com/ota-meshi/extract-vscode-schemas) - 
 - [francisconeves97/jxscout](https://github.com/francisconeves97/jxscout) - jxscout superpowers JavaScript analysis for security researchers
+- [DoingFedTime/PrivacyPlease](https://github.com/DoingFedTime/PrivacyPlease) - Swaps Reddit, YouTube, and Twitter for their open-source privacy frontends. Works automatically in your browser.
 - [rapid7/jsobfu](https://github.com/rapid7/jsobfu) - Obfuscate JavaScript (beyond repair) with Ruby
 - [thalesgroup-cert/Watcher](https://github.com/thalesgroup-cert/Watcher) - Watcher - Open Source AI-powered Cyber Threat Intelligence & Hunting Platform. Developed with Django & React JS.
 - [mindedsecurity/JStillery](https://github.com/mindedsecurity/JStillery) - Advanced JavaScript Deobfuscation via Partial Evaluation
@@ -1273,7 +1274,7 @@
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [0xa3k5/web3icons](https://github.com/0xa3k5/web3icons) - 2000+ crypto svg icons for react
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
-- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [function03-labs/WalletLabels](https://github.com/function03-labs/WalletLabels) - A web app to search Ethereum wallets by names or labels.
