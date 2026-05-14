@@ -242,7 +242,7 @@
 - [Leeon123/golang-httpflood](https://github.com/Leeon123/golang-httpflood) - Golang httpflood(socket) can down a normal website in 10s with 100 connections
 - [alephao/nftool](https://github.com/alephao/nftool) - A suite of tools for NFT generative art.
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL, KDL and CSV files with a single tool. Also available as a go mod.
 - [tigrisdata-archive/tigrisdb](https://github.com/tigrisdata-archive/tigrisdb) - Tigris is a globally distributed, multi-cloud object storage service with built-in support for the S3 API. It uses Dynamic Data Placement and Access-Based Rebalancing to deliver low-latency access wor
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
@@ -1256,9 +1256,9 @@
 - [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat💬🚀
 - [internet-development/www-server-mono](https://github.com/internet-development/www-server-mono) - Server Mono is a typeface inspired by typewriters, Apple's San Francisco Mono, ASCII art, command-line interfaces, and programming tools.
 - [anomalyco/openauth](https://github.com/anomalyco/openauth) - ▦ Universal, standards-based auth provider.
-- [namehash/namekit](https://github.com/namehash/namekit) - Easily integrate rich ENS user journeys into your wallet, app, or game.
+- [namehash/namekit](https://github.com/namehash/namekit) - [ARCHIVED] Easily integrate rich ENS user journeys into your wallet, app, or game.
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
-- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+- [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
@@ -1276,7 +1276,7 @@
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
+- [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [function03-labs/WalletLabels](https://github.com/function03-labs/WalletLabels) - A web app to search Ethereum wallets by names or labels.
 - [matthewwong525/linked-blog-starter](https://github.com/matthewwong525/linked-blog-starter) - Host your second brain for free with Next.JS and Tailwind v3
 - [mcndt/noteshare.space](https://github.com/mcndt/noteshare.space) - A service for sharing encrypted Markdown notes from Obsidian. Notes are end-to-end-encrypted and are only stored temporarily.
@@ -1423,7 +1423,7 @@
 - [Destiner/ethereum-json-rpc](https://github.com/Destiner/ethereum-json-rpc) - An interactive reference of the Ethereum node API
 - [sandoche/CuratedStack-nocode-template](https://github.com/sandoche/CuratedStack-nocode-template) - 🧱 A template to create a CuratedStack without (or with) code
 - [merakiuilabs/hero-header-template](https://github.com/merakiuilabs/hero-header-template) - Agency Landing page Template Build with Tailwind CSS, vite, and vue 3, shapes with RTL Languages Support.
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [coinos/coinos-classic](https://github.com/coinos/coinos-classic) - A bitcoin wallet app
 
 ## YAML 
