@@ -200,7 +200,7 @@
 - [brianshea2/addr.tools](https://github.com/brianshea2/addr.tools) - possibly useful tools for the Internet
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - A local-first workflow engine built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster. Persistent Workflow Oper
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first control plane for data scripts, SQL, containers, SSH commands. One binary, file-backed state, no external database or broker. Use your favorite AI agents to create, update, and run your wo
 - [nathanbrock/littlesnitch-country-blocklists](https://github.com/nathanbrock/littlesnitch-country-blocklists) - A collection of LittleSnitch rule sets to block outbound connections to a given country.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
@@ -540,7 +540,6 @@
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [nikivdev/privacy-respecting](https://github.com/nikivdev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
-- [xbeat/Machine-Learning](https://github.com/xbeat/Machine-Learning) - Cross Beat (xbe.at) - Your hub for python, machine learning and AI tutorials. Explore Python tutorials, AI insights, and more.
 - [WebBreacher/obsidian-osint-templates](https://github.com/WebBreacher/obsidian-osint-templates) - These templates are suggestions of how the Obsidian notetaking tool can be used during an OSINT investigation. The example data in those files should allow you to make some connections (see what I did
 - [oldmanumby/dnd.srd.5.1](https://github.com/oldmanumby/dnd.srd.5.1) - Dungeons & Dragons 5th Edition (2014) SRD v5.1 converted to Markdown.
 - [MightyMoud/sidekick-traefik](https://github.com/MightyMoud/sidekick-traefik) - 
@@ -754,6 +753,7 @@
 - [byt3bl33d3r/WitnessMe](https://github.com/byt3bl33d3r/WitnessMe) - Web Inventory tool, takes screenshots of webpages using Pyppeteer (headless Chrome/Chromium) and provides some extra bells & whistles to make life easier.
 - [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
+- [xbeat/Machine-Learning](https://github.com/xbeat/Machine-Learning) - Cross Beat (xbe.at) - Your hub for python, machine learning and AI tutorials. Explore Python tutorials, AI insights, and more.
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Build realtime web, mobile and desktop apps in Python only. No frontend experience required.
 - [x42005e1f/aiologic](https://github.com/x42005e1f/aiologic) - GIL-powered* locking library for Python
 - [rly0nheart/searchcode-python](https://github.com/rly0nheart/searchcode-python) - Python SDK and CLI utility for searchcode.com.
