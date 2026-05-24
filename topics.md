@@ -1043,7 +1043,7 @@
 
 - [turbot/powerpipe](https://github.com/turbot/powerpipe) - Powerpipe: Dashboards for DevOps. Visualize cloud configurations. Assess security posture against a massive library of benchmarks. Build custom dashboards with code.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run local code as if it were a pod in a remote Kubernetes cluster: real env vars, DNS, network, traffic. Used by AI coding agents and developers.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - The control plane for teams looking to automate real work with AI agents within their own infrastructure. Packaged as a single binary, it runs on Linux, macOS, and Windows. Use your favorite AI agents
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Lightweight workflow engine built in a single binary with Web UI. Define workflows in a declarative YAML format. Linux, macOS, and Windows. Use your favorite AI agents to manage your workflows.
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
 - [blacknon/lssh](https://github.com/blacknon/lssh) - A terminal-native remote access suite for SSH, cloud inventories, provider-backed connectors, parallel commands, mux workspaces, file transfer, and monitoring.
