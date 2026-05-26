@@ -200,7 +200,7 @@
 - [brianshea2/addr.tools](https://github.com/brianshea2/addr.tools) - possibly useful tools for the Internet
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Lightweight workflow engine built in a single binary with Web UI. Define workflows in a declarative YAML format. Linux, macOS, and Windows. Use your favorite AI agents to manage your workflows.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Lightweight and powerful workflow engine that comes with a Web UI. Define workflows in a declarative YAML format. Self-contained and no DBMS is required. Use any AI agent to manage your workflows.
 - [nathanbrock/littlesnitch-country-blocklists](https://github.com/nathanbrock/littlesnitch-country-blocklists) - A collection of LittleSnitch rule sets to block outbound connections to a given country.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
@@ -333,7 +333,6 @@
 - [GetmeUK/ContentTools](https://github.com/GetmeUK/ContentTools) - A JS library for building WYSIWYG editors for HTML content.
 - [dgmid/CSS3-ButtonBuilder](https://github.com/dgmid/CSS3-ButtonBuilder) - Mac App for generating HTML/CSS buttons
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
-- [tetherto/pearpass-app-desktop](https://github.com/tetherto/pearpass-app-desktop) - PearPass is an open-source, privacy-first password manager with peer-to-peer syncing and end-to-end encryption.
 - [DavidAnson/markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2) - A fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
@@ -1194,6 +1193,7 @@
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+- [tetherto/pearpass-app-desktop](https://github.com/tetherto/pearpass-app-desktop) - PearPass is an open-source, privacy-first password manager with peer-to-peer syncing and end-to-end encryption.
 - [astudentinearth/darkwrite](https://github.com/astudentinearth/darkwrite) - Notes as it should have been. Built for people who just want to write, without nonsense.
 - [AhmedOsman101/commit-sage-cli](https://github.com/AhmedOsman101/commit-sage-cli) - Generates Conventional Commit messages with AI. Supports OpenAI, Ollama, and Gemini.
 - [LayerZero-Labs/gasolina-aws](https://github.com/LayerZero-Labs/gasolina-aws) - This repository provides Infrastructure-As-Code (IAC) for installing Gasolina on AWS via CDK.
