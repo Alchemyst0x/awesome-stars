@@ -340,7 +340,7 @@
 - [whiteh4cker-tr/grammar-llm](https://github.com/whiteh4cker-tr/grammar-llm) - AI-powered grammar checker using fine-tuned language models to fix grammatical errors in text.
 - [leaky-forms/leaky-forms-crawler](https://github.com/leaky-forms/leaky-forms-crawler) - Puppeteer based crawler to measure email and password exfiltration
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - Build apps that AI can generate, humans can review, and teams can maintain. Config that works between code and natural language.
 - [Ch3nYe/JsDeObsBench](https://github.com/Ch3nYe/JsDeObsBench) - JsDeObsBench
 - [digitalmethodsinitiative/zeeschuimer](https://github.com/digitalmethodsinitiative/zeeschuimer) - A browser extension to collect social media data with.
