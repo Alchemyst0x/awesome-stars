@@ -71,6 +71,7 @@
 
 ## C 
 
+- [MarkReedZ/mrhttp](https://github.com/MarkReedZ/mrhttp) - The fastest python web framework - 8.5m requests per second!
 - [kaansenol5/VibeOS](https://github.com/kaansenol5/VibeOS) - A completely vibecoded operating system targeting Aarch64
 - [AsahiLinux/linux](https://github.com/AsahiLinux/linux) - Linux kernel source tree
 - [open5gs/open5gs](https://github.com/open5gs/open5gs) - Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-17)
@@ -200,7 +201,7 @@
 - [brianshea2/addr.tools](https://github.com/brianshea2/addr.tools) - possibly useful tools for the Internet
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Lightweight and powerful workflow engine that comes with a Web UI. Define workflows in a declarative YAML format. Self-contained and no DBMS is required. Use any AI agent to manage your workflows.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - The local-first control plane for existing ops automation and AI workflows. Define DAGs in a declarative YAML format. Self-contained and no DBMS required. Use any AI agent to manage your DAGs via MCP.
 - [nathanbrock/littlesnitch-country-blocklists](https://github.com/nathanbrock/littlesnitch-country-blocklists) - A collection of LittleSnitch rule sets to block outbound connections to a given country.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
@@ -318,6 +319,7 @@
 
 ## JavaScript 
 
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 - [kholmogorov27/chevron](https://github.com/kholmogorov27/chevron) - Powerful and highly functional startpage integrated with chatGPT and hidden under the super minimalistic and animated design (static/hosted/github pages)
@@ -334,7 +336,7 @@
 - [dgmid/CSS3-ButtonBuilder](https://github.com/dgmid/CSS3-ButtonBuilder) - Mac App for generating HTML/CSS buttons
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [DavidAnson/markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2) - A fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
-- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
+- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - Programming style, best practices, and coding conventions.
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
 - [whiteh4cker-tr/grammar-llm](https://github.com/whiteh4cker-tr/grammar-llm) - AI-powered grammar checker using fine-tuned language models to fix grammatical errors in text.
@@ -624,6 +626,7 @@
 
 ## Python 
 
+- [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to.
 - [vargasjona/fastapi-alembic-sqlmodel-async](https://github.com/vargasjona/fastapi-alembic-sqlmodel-async) - This is a project template which uses FastAPI, Pydantic 2.0, Alembic and async SQLModel as ORM. It shows a complete async CRUD using authentication and role base access control.
 - [ApeWorX/web3.py](https://github.com/ApeWorX/web3.py) - A python interface for interacting with the Ethereum blockchain and ecosystem.
@@ -687,7 +690,6 @@
 - [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
 - [karpetrosyan/hishel](https://github.com/karpetrosyan/hishel) - Elegant HTTP Caching for Python
 - [ryayoung/chatgpt-schema](https://github.com/ryayoung/chatgpt-schema) - Pydantic models to describe, with maximum strictness, the schema of a ChatGPT data export, for research purposes.
-- [PrettyGoodCapital/finance-enums](https://github.com/PrettyGoodCapital/finance-enums) - Standard Financial Enumerations
 - [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core) - AI agent microservice
 - [eugeneyan/obsidian-copilot](https://github.com/eugeneyan/obsidian-copilot) - 🤖 A prototype assistant for writing and thinking
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
@@ -883,7 +885,7 @@
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins) - This is a crypto trading bot that scans the Binance Annoucements page for new coins, and places trades on Gateio
 - [balancer/balpy](https://github.com/balancer/balpy) - Tools for interacting with Balancer Protocol V2 in Python.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [safe-global/safe-cli](https://github.com/safe-global/safe-cli) - Command line utility for Safe
