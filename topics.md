@@ -1043,7 +1043,7 @@
 
 - [turbot/powerpipe](https://github.com/turbot/powerpipe) - Powerpipe: Dashboards for DevOps. Visualize cloud configurations. Assess security posture against a massive library of benchmarks. Build custom dashboards with code.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run local code as if it were a pod in a remote Kubernetes cluster: real env vars, DNS, network, traffic. Used by AI coding agents and developers.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - The local-first control plane for existing ops automation and AI workflows. Define DAGs in a declarative YAML format. Self-contained and no DBMS required. Use any AI agent to manage your DAGs via MCP.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first workflow engine with a Web UI for small teams. Define DAGs in a declarative YAML format. Self-contained and no DBMS required. Use any AI agent to manage your DAGs.
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
 - [blacknon/lssh](https://github.com/blacknon/lssh) - A terminal-native remote access suite for SSH, cloud inventories, provider-backed connectors, parallel commands, mux workspaces, file transfer, and monitoring.
@@ -1647,6 +1647,7 @@
 
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 
@@ -1964,6 +1965,7 @@
 
 ## macos 
 
+- [simonrob/pyoslog](https://github.com/simonrob/pyoslog) - Send messages to the macOS unified logging system from Python
 - [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
 - [cardisoft/cardinal](https://github.com/cardisoft/cardinal) - Fastest file searching tool for macOS
 - [RhetTbull/macos_mditem_metadata](https://github.com/RhetTbull/macos_mditem_metadata) - Access macOS Spotlight metadata on files from Python. Also includes JSON data for all common metadata keys.
@@ -2982,6 +2984,7 @@
 
 ## python 
 
+- [simonrob/pyoslog](https://github.com/simonrob/pyoslog) - Send messages to the macOS unified logging system from Python
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [RhetTbull/osxmetadata](https://github.com/RhetTbull/osxmetadata) - Python package to read and write various MacOS extended attribute metadata such as tags/keywords and Finder comments from files. Includes CLI tool for reading/writing metadata.
 - [cdpdriver/zendriver](https://github.com/cdpdriver/zendriver) - A blazing fast, async-first, undetectable webscraping/web automation framework based on ultrafunkamsterdam/nodriver. Now with Docker support!
@@ -3473,7 +3476,7 @@
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - The local-first control plane for existing ops automation and AI workflows. Define DAGs in a declarative YAML format. Self-contained and no DBMS required. Use any AI agent to manage your DAGs via MCP.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first workflow engine with a Web UI for small teams. Define DAGs in a declarative YAML format. Self-contained and no DBMS required. Use any AI agent to manage your DAGs.
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [nikivdev/privacy-respecting](https://github.com/nikivdev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -3898,7 +3901,7 @@
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
 - [OffcierCia/On-Chain-Investigations-Tools-List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List) - Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals! PRs are welcome! If any tool is missing - please open PR!
-- [rnd-team-dev/plotoptix](https://github.com/rnd-team-dev/plotoptix) - Data visualisation and ray tracing in Python based on OptiX 9 framework.
+- [rnd-team-dev/plotoptix](https://github.com/rnd-team-dev/plotoptix) - Data visualisation and ray tracing in Python based on OptiX 9.1 framework.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 
