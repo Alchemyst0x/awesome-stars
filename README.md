@@ -934,7 +934,7 @@
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
 - [nymtech/nym-vpn-client](https://github.com/nymtech/nym-vpn-client) - Cross-platform open source VPN client built in Rust, with mixnet anonymity and WireGuard speed. Protects metadata, not just IP addresses. Zero-knowledge payments for unlinkable online activities.
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local-first and microVM-backed programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
 - [daac-tools/find-simdoc](https://github.com/daac-tools/find-simdoc) - Finding all pairs of similar documents time- and memory-efficiently
 - [ravendevteam/alternet](https://github.com/ravendevteam/alternet) - A completely decentralized alternative to the current-day web.
 - [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic.
@@ -996,7 +996,7 @@
 - [degatchi/merkle-generator](https://github.com/degatchi/merkle-generator) - Bootstrap your merkle tree.
 - [0age/create2crunch](https://github.com/0age/create2crunch) - A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.
 - [Ethnical/Swek3](https://github.com/Ethnical/Swek3) - Web3 Security Toolbox
-- [iFrostizz/murph](https://github.com/iFrostizz/murph) - A Huff &lt;&gt; bytecode transpiler
+- [franfrandev/murph](https://github.com/franfrandev/murph) - A Huff &lt;&gt; bytecode transpiler
 - [Rjected/ranger](https://github.com/Rjected/ranger) - Ranger is an ethereum p2p client capable of interacting with peers without a full node
 - [convexbrain/Totsu](https://github.com/convexbrain/Totsu) - First-order conic solver for convex optimization problems
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
