@@ -713,6 +713,7 @@
 - [getludic/ludic](https://github.com/getludic/ludic) - 🌳 A type-safe HTML template engine for Python. Build dynamic web pages using Python components with a React-like approach.
 - [mslaursen/fastapi-forge](https://github.com/mslaursen/fastapi-forge) - A UI Based FastAPI Project Generation tool.
 - [labex-labs/open-source-labs](https://github.com/labex-labs/open-source-labs) - LabEx Open-Source Labs
+- [namecheap/fast_mail_parser](https://github.com/namecheap/fast_mail_parser) - Very fast Python library for .eml files parsing
 - [owasp-dep-scan/dep-scan](https://github.com/owasp-dep-scan/dep-scan) - OWASP dep-scan is a next-generation security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies. Both local repositories and container ima
 - [jina-ai/annlite](https://github.com/jina-ai/annlite) - ⚡ A fast embedded library for approximate nearest neighbor search
 - [tarasko/picows](https://github.com/tarasko/picows) - Ultra-fast websocket client and server for asyncio
@@ -806,7 +807,7 @@
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [Vinyzu/chrome-fingerprints](https://github.com/Vinyzu/chrome-fingerprints) - A Collection of 10.000 collected Windows Chrome Fingerprints. Usable with an easy-to-use API, available as a compressed (lzma) or full-size Json (view Releases). Its just 1.4mb in size in compressed f
 - [openapi-generators/openapi-python-client](https://github.com/openapi-generators/openapi-python-client) - Generate modern Python clients from OpenAPI
-- [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Python data model generator (Pydantic, dataclasses, TypedDict, msgspec) from OpenAPI, JSON Schema, GraphQL, and raw data (JSON/YAML/CSV).
+- [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV.
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast a
 - [litestar-org/litestar-fullstack](https://github.com/litestar-org/litestar-fullstack) - Litestar Fullstack Reference Application with React, Vite, SQLAlchemy, Docker, Task Queues, and more!
 - [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - The first "code-first" agent framework for seamlessly planning and executing data analytics tasks.
@@ -933,7 +934,7 @@
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
 - [nymtech/nym-vpn-client](https://github.com/nymtech/nym-vpn-client) - Cross-platform open source VPN client built in Rust, with mixnet anonymity and WireGuard speed. Protects metadata, not just IP addresses. Zero-knowledge payments for unlinkable online activities.
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy and fast microVMs for running untrusted workloads
 - [daac-tools/find-simdoc](https://github.com/daac-tools/find-simdoc) - Finding all pairs of similar documents time- and memory-efficiently
 - [ravendevteam/alternet](https://github.com/ravendevteam/alternet) - A completely decentralized alternative to the current-day web.
 - [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic.
@@ -953,7 +954,6 @@
 - [gibz104/reth-db-py](https://github.com/gibz104/reth-db-py) - Python wrapper around reth db. Written in Rust.
 - [fkie-cad/entropython](https://github.com/fkie-cad/entropython) - Efficient calculation of shannon byte entropy based on rust library.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-- [namecheap/fast_mail_parser](https://github.com/namecheap/fast_mail_parser) - Very fast Python library for .eml files parsing
 - [wiktor-k/age-plugin-openpgp-card](https://github.com/wiktor-k/age-plugin-openpgp-card) - Age plugin for using ed25519 on OpenPGP Card devices (Yubikeys, Nitrokeys)
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
