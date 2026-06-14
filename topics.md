@@ -2378,6 +2378,10 @@
 
 ## others 
 
+- [mullvad/opinionated-commit-message](https://github.com/mullvad/opinionated-commit-message) - GitHub Action to check commit messages according to an opinioned style
+- [mullvad/system-configuration-rs](https://github.com/mullvad/system-configuration-rs) - Bindings to System Configuration framework for macOS
+- [mullvad/git-carbon](https://github.com/mullvad/git-carbon) - A tool to help manage duplicated files across reposistories. Like git-submodule but for individual files.
+- [mullvad/pfctl-rs](https://github.com/mullvad/pfctl-rs) - Library and CLI for interfacing with the PF firewall on macOS
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [MarkReedZ/mrhttp](https://github.com/MarkReedZ/mrhttp) - The fastest python web framework - 8.5m requests per second!
 - [cryptoalgebra/AlgebraV1](https://github.com/cryptoalgebra/AlgebraV1) - The first version of Algebra protocol - innovative DEX with concetrated liquidity
