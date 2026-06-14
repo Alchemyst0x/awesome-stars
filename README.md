@@ -173,6 +173,7 @@
 
 ## Go 
 
+- [mullvad/git-carbon](https://github.com/mullvad/git-carbon) - A tool to help manage duplicated files across reposistories. Like git-submodule but for individual files.
 - [slowmist/blockchain-threat-intelligence](https://github.com/slowmist/blockchain-threat-intelligence) - Blockchain Threat Intelligence Sharing Platform（区块链威胁情报共享平台）
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
@@ -916,6 +917,8 @@
 
 ## Rust 
 
+- [mullvad/system-configuration-rs](https://github.com/mullvad/system-configuration-rs) - Bindings to System Configuration framework for macOS
+- [mullvad/pfctl-rs](https://github.com/mullvad/pfctl-rs) - Library and CLI for interfacing with the PF firewall on macOS
 - [memospot/memospot](https://github.com/memospot/memospot) - Memospot is a self-contained desktop version of Memos -a privacy-first, lightweight note-taking service.
 - [brainless/dwata](https://github.com/brainless/dwata) - AI enabled insights from emails, calendars, contacts, files, Slack, databases, web... Fast, private and local. Launching soon!
 - [cardisoft/cardinal](https://github.com/cardisoft/cardinal) - Fastest file searching tool for macOS
@@ -1185,6 +1188,7 @@
 
 ## TypeScript 
 
+- [mullvad/opinionated-commit-message](https://github.com/mullvad/opinionated-commit-message) - GitHub Action to check commit messages according to an opinioned style
 - [cryptoalgebra/AlgebraV1](https://github.com/cryptoalgebra/AlgebraV1) - The first version of Algebra protocol - innovative DEX with concetrated liquidity
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier) - automatically verify your age on discord, twitch, kick, quora and more (k-id)
