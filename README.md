@@ -352,7 +352,6 @@
 - [microsoft/vscode-ripgrep](https://github.com/microsoft/vscode-ripgrep) - For consuming the ripgrep binary from microsoft/ripgrep-prebuilt in a Node project
 - [ota-meshi/extract-vscode-schemas](https://github.com/ota-meshi/extract-vscode-schemas) - 
 - [francisconeves97/jxscout](https://github.com/francisconeves97/jxscout) - jxscout superpowers JavaScript analysis for security researchers
-- [DoingFedTime/PrivacyPlease](https://github.com/DoingFedTime/PrivacyPlease) - Swaps Reddit, YouTube, and Twitter for their open-source privacy frontends. Works automatically in your browser.
 - [rapid7/jsobfu](https://github.com/rapid7/jsobfu) - Obfuscate JavaScript (beyond repair) with Ruby
 - [thalesgroup-cert/Watcher](https://github.com/thalesgroup-cert/Watcher) - Watcher - Open Source AI-powered Cyber Threat Intelligence & Hunting Platform. Developed with Django & React JS.
 - [mindedsecurity/JStillery](https://github.com/mindedsecurity/JStillery) - Advanced JavaScript Deobfuscation via Partial Evaluation
@@ -652,7 +651,7 @@
 - [peterk/warcworker](https://github.com/peterk/warcworker) - A dockerized, queued high fidelity web archiver based on Squidwarc
 - [internetarchive/warcprox](https://github.com/internetarchive/warcprox) - WARC writing MITM HTTP/S proxy
 - [webrecorder/authsign](https://github.com/webrecorder/authsign) - 
-- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-improve over time.
+- [letta-ai/letta](https://github.com/letta-ai/letta) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [Blockmage/typed_sentinels](https://github.com/Blockmage/typed_sentinels) - Statically-typed sentinel objects with singleton qualities.
 - [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
 - [drivendataorg/cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
