@@ -2374,6 +2374,7 @@
 
 ## others 
 
+- [urlscan/urlscan-cli](https://github.com/urlscan/urlscan-cli) - Official urlscan.io and urlscan Pro CLI tool
 - [mullvad/opinionated-commit-message](https://github.com/mullvad/opinionated-commit-message) - GitHub Action to check commit messages according to an opinioned style
 - [mullvad/system-configuration-rs](https://github.com/mullvad/system-configuration-rs) - Bindings to System Configuration framework for macOS
 - [mullvad/git-carbon](https://github.com/mullvad/git-carbon) - A tool to help manage duplicated files across reposistories. Like git-submodule but for individual files.
