@@ -173,6 +173,7 @@
 
 ## Go 
 
+- [urlscan/urlscan-cli](https://github.com/urlscan/urlscan-cli) - Official urlscan.io and urlscan Pro CLI tool
 - [mullvad/git-carbon](https://github.com/mullvad/git-carbon) - A tool to help manage duplicated files across reposistories. Like git-submodule but for individual files.
 - [slowmist/blockchain-threat-intelligence](https://github.com/slowmist/blockchain-threat-intelligence) - Blockchain Threat Intelligence Sharing Platform（区块链威胁情报共享平台）
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
@@ -321,6 +322,7 @@
 
 ## JavaScript 
 
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
