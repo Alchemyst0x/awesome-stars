@@ -2441,7 +2441,7 @@
 - [ProjectOpenSea/seaport](https://github.com/ProjectOpenSea/seaport) - Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs.
 - [libevm/subway](https://github.com/libevm/subway) - A practical example on how to perform sandwich attacks on Ethereum
 - [blockscout/chainscout](https://github.com/blockscout/chainscout) - 
-- [open5gs/open5gs](https://github.com/open5gs/open5gs) - Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-17)
+- [open5gs/open5gs](https://github.com/open5gs/open5gs) - Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-19)
 - [CVEProject/cvelistV5](https://github.com/CVEProject/cvelistV5) - CVE cache of the official CVE List in CVE JSON 5 format
 - [dotpy/py-pf](https://github.com/dotpy/py-pf) - Python module for managing OpenBSD's Packet Filter
 - [n0fate/chainbreaker](https://github.com/n0fate/chainbreaker) - Mac OS X Keychain Forensic Tool
