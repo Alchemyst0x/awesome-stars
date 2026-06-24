@@ -938,7 +938,7 @@
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
 - [nymtech/nym-vpn-client](https://github.com/nymtech/nym-vpn-client) - Cross-platform open source VPN client built in Rust, with mixnet anonymity and WireGuard speed. Protects metadata, not just IP addresses. Zero-knowledge payments for unlinkable online activities.
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local-first microVM runtime
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
 - [daac-tools/find-simdoc](https://github.com/daac-tools/find-simdoc) - Finding all pairs of similar documents time- and memory-efficiently
 - [ravendevteam/alternet](https://github.com/ravendevteam/alternet) - A completely decentralized alternative to the current-day web.
 - [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic.
@@ -1079,7 +1079,7 @@
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
 - [tmux-plugins/tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight) - Plugin that highlights when you press tmux prefix key
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
-- [docker-library/ghost](https://github.com/docker-library/ghost) - Docker Official Image packaging for Ghost
+- [TryGhost/docker-library-ghost](https://github.com/TryGhost/docker-library-ghost) - Docker Official Image packaging for Ghost
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [Privex/scandomain](https://github.com/Privex/scandomain) - A bash tool to make querying multiple record types / multiple domains from the CLI much easier, with the ability to display the records in several different formats.
 - [sickcodes/security](https://github.com/sickcodes/security) - Collection of CVEs from Sick Codes, or collaborations on https://sick.codes security research & advisories.
